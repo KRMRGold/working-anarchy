@@ -1,7 +1,7 @@
 ---
 title: A Materialist Theory of Anarchism
-subtitle: Working notes toward a materialist account of decentralized freedom, technological abundance, and human flourishing
-version: 0.2.0
+subtitle: Research into human flourishing, civilizational futures, decentralized freedom, and technological change
+version: 0.3.0
 status: Working Research Document
 date: 2026-11-16
 research_status: Initial landscape investigation
@@ -1106,6 +1106,262 @@ How decentralized governance scales while preserving individual autonomy.
 What a practical transition between existing institutions and alternative arrangements would require.
 
 Next research priorities: see §13. They are stated there rather than duplicated here, so the document has one place to look for what happens next.
+
+
+
+17. Beyond ideological labels: the future of humanity
+
+The project's scope is broader than the name of any political tradition. Marxism, socialism, communism, anarchism, capitalism, liberalism, and other labels are historically useful: they identify intellectual traditions, movements, institutional arrangements, and disagreements. They should not become substitutes for investigating what helps humanity live, develop, cooperate, and flourish.
+
+The central subject is the future of human civilization. Political and economic traditions are sources of hypotheses, historical experience, concepts, and proposed institutions. None should be treated as the predetermined destination or final answer.
+
+A guiding question:
+
+How can humanity develop its productive, intellectual, technological, social, and ecological capabilities in ways that progressively expand freedom, material security, meaningful choice, and the possibility of human flourishing?
+
+This framing does not assume a single ideal society, a fixed endpoint of history, or one universal way of living. It leaves room for pluralism, experimentation, disagreement, institutional change, and different communities choosing different arrangements, provided those arrangements do not depend on domination or deny others the conditions of freedom.
+
+The working title remains a historical and intellectual point of entry, not a boundary around the investigation.
+
+18. Human flourishing and the capability approach
+
+A society's progress should not be measured only by output, income, technological sophistication, or aggregate growth. It should also be examined in terms of what people are actually able to do and become.
+
+The capability approach, associated especially with Amartya Sen and Martha Nussbaum, distinguishes resources from the real opportunities people have to use them. Equal resources do not necessarily produce equal freedoms: health, disability, social conditions, public infrastructure, discrimination, care responsibilities, and personal circumstances affect what people can actually do.
+
+Important contributors and works:
+
+Amartya Sen — Development as Freedom (1999). Connects development to substantive freedoms, including political participation, access to education and health, economic opportunity, and the ability to shape one's life.
+
+Martha C. Nussbaum — Creating Capabilities: The Human Development Approach (2011). Develops a philosophical account of central human capabilities and the conditions needed for a life worthy of human dignity.
+
+Manfred Max-Neef, Antonio Elizalde, and Martín Hopenhayn — Human Scale Development: Conception, Application and Further Reflections (1986; English-language editions followed). Distinguishes fundamental human needs from the different satisfiers through which societies attempt to meet them. This is useful for asking whether institutions meet needs in ways that support or undermine autonomy.
+
+Questions for this project:
+
+- What should count as progress if GDP and production volume are insufficient measures?
+- Which capabilities should everyone have a genuine opportunity to develop?
+- How can a society secure common foundations without prescribing one model of a good life?
+- How do power, disability, care, culture, and unequal starting conditions shape people's real freedom?
+- How can capability and flourishing be evaluated without reducing them to one score or imposing one definition of happiness?
+
+19. Prosperity, post-growth, and ecological limits
+
+The future of humanity cannot be considered separately from the material and ecological systems that sustain it. The question is not simply how to produce more, but what should be produced, for whom, at what cost, and within which ecological limits.
+
+Post-growth research investigates how societies might prioritize wellbeing, sufficiency, equality, and ecological stability rather than treating perpetual GDP growth as the overriding objective. This is not identical to recession, austerity, or indiscriminate reduction of useful production. It asks how to reduce harmful and unnecessary throughput while improving access to the goods, services, and social conditions people need.
+
+Important contributors and works:
+
+Tim Jackson — Prosperity Without Growth: Foundations for the Economy of Tomorrow (2009; substantially revised second edition, 2017). Examines the meaning of prosperity in a finite world and the institutional dependence of employment, investment, and public provision on economic growth.
+
+Kate Raworth — Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist (2017). Presents a framework with a social foundation below which people should not fall and an ecological ceiling that humanity should not overshoot.
+
+Giorgos Kallis, Jason Hickel, Daniel W. O'Neill, Tim Jackson, Peter A. Victor, Kate Raworth, Juliet B. Schor, Julia K. Steinberger, Diana Ürge-Vorsatz, and colleagues — "Post-growth: the science of wellbeing within planetary boundaries" (The Lancet Planetary Health, 2025). A review of research on wellbeing within planetary boundaries, including ecological macroeconomic models, growth dependencies, and provisioning systems.
+
+Aljoša Slameršak, Vivien Fisch-Romito, Jason Hickel, Jarmo S. Kikstra, Joel Millward-Hopkins, Yannick Oswald, Julia K. Steinberger, and colleagues — "Principles for a post-growth scenario of ambitious mitigation and high human well-being" (Nature Climate Change, 2026). Synthesizes post-growth principles around wellbeing, sufficiency, reduced inequalities, repurposing the economy, and convergence between North and South.
+
+Related research areas:
+
+- Planetary boundaries and Earth-system stability.
+- Ecological economics and steady-state economics.
+- Degrowth and post-growth political economy.
+- Sufficiency, universal basic services, and public provisioning.
+- Energy use, material footprints, and decent living standards.
+- Care economies and the organization of socially necessary work.
+
+Questions for this project:
+
+- Which forms of production should expand, contract, or be redesigned?
+- How can basic security and public services be maintained without depending on endless growth?
+- How should ecological costs and resource use be distributed fairly, including between countries and generations?
+- What does a materially sufficient but culturally and intellectually expansive society look like?
+- How can transition avoid turning ecological limits into an excuse for authoritarian control or unequal sacrifice?
+
+20. Convivial technology and human autonomy
+
+Technology should be evaluated not only by efficiency or novelty, but by the relationships it creates between people, tools, institutions, and infrastructure.
+
+Ivan Illich — Tools for Conviviality (1973) argues for tools and institutions that people can use to pursue their own purposes, rather than systems that turn users into dependent clients of professionalized or centralized institutions. His concept of convivial tools is especially relevant to evaluating AI, software platforms, education, transport, health systems, and communication infrastructure.
+
+Lewis Mumford — Technics and Civilization (1934) examines the historical relationship between technological systems and the development of civilization. His work helps place individual inventions within larger social and institutional transformations.
+
+Murray Bookchin — "Towards a Liberatory Technology" (1965), Post-Scarcity Anarchism (1971), and later social-ecological writing — connects technological design with decentralization, ecological relationships, and the possibility of reducing unnecessary toil.
+
+A useful distinction for this project:
+
+- A tool can increase an individual's capability while increasing their dependence on its owner.
+- A system can become more efficient while making its decisions less understandable or contestable.
+- Automation can reduce necessary labor while concentrating control over the resulting time and wealth.
+- Distributed access does not necessarily mean distributed ownership, governance, or repair capability.
+
+Questions for this project:
+
+- Does a technology expand people's ability to act independently?
+- Can people understand, modify, repair, replace, and collectively govern important tools?
+- Who controls the infrastructure, standards, data, energy, and interfaces on which a tool depends?
+- Does automation distribute free time and capability, or mainly increase the power of owners?
+- What should remain small-scale and locally controlled, and what benefits from large-scale shared infrastructure?
+
+21. Systems thinking and civilizational development
+
+Human societies are complex systems. Their behavior emerges from relationships, feedback loops, delays, incentives, material constraints, and institutional rules. Interventions can produce unintended effects, and solutions that work locally may behave differently at larger scales.
+
+Donella H. Meadows, Dennis L. Meadows, Jørgen Randers, and William W. Behrens III — The Limits to Growth (1972). Uses system-dynamics modelling to examine interactions among population, industrial production, resources, food, and pollution over time.
+
+Donella H. Meadows — Thinking in Systems: A Primer (published posthumously in 2008, edited by Diana Wright). Introduces stocks, flows, feedback, delays, resilience, and leverage points. It is useful for analyzing institutions as dynamic systems rather than static organizational charts.
+
+Related work includes systems dynamics, resilience research, cybernetics, Earth-system science, complexity studies, and long-term scenario modelling.
+
+Questions for this project:
+
+- Which feedback loops reproduce poverty, concentration of power, ecological damage, or institutional rigidity?
+- Which interventions change the rules and incentives that generate outcomes, rather than treating symptoms?
+- How can systems remain resilient without becoming resistant to necessary change?
+- How should uncertainty, delayed effects, and unintended consequences influence institutional design?
+- How can a society detect failure early and correct course without requiring crisis or collapse?
+
+22. Cooperation, commons, and plural forms of organization
+
+The future of civilization need not depend on choosing between isolated localism and one centralized global authority. A central research problem is how different scales of organization can coexist and coordinate.
+
+This section connects the project's existing research on anarchist federation, mutual aid, commons governance, peer production, participatory planning, and cybernetics with broader questions about human development.
+
+Relevant traditions and research:
+
+- Polycentric governance: multiple, partly autonomous decision-making centers that cooperate, overlap, and constrain one another.
+- Commons governance: communities developing rules and practices for shared resources.
+- Peer production: distributed contributors producing knowledge, software, and cultural goods through shared infrastructures.
+- Federation and confederation: autonomous groups coordinating through delegated, accountable, and revisable arrangements.
+- Cooperatives and solidarity economies: shared ownership and democratic control of productive activity.
+- Public and universal provisioning: ensuring access to essential goods and services without making every need dependent on individual purchasing power.
+- Participatory planning and cybernetics: coordinating complex activities through information, feedback, and accountable decision-making.
+
+Existing thinkers already covered elsewhere in this document—Elinor Ostrom, Yochai Benkler, Peter Kropotkin, Murray Bookchin, Stafford Beer, Michael Albert, Robin Hahnel, and others—should be revisited through this broader civilizational question rather than treated as representatives of sealed ideological camps.
+
+Questions for this project:
+
+- Which decisions should be made individually, locally, regionally, or globally?
+- How can coordination remain accountable to the people affected by it?
+- How can people leave, challenge, or redesign institutions without losing access to necessities?
+- How can plural communities share infrastructure and manage conflicts without requiring cultural uniformity?
+- What prevents federations, cooperatives, and commons from developing informal elites or bureaucratic inertia?
+
+23. Culture, meaning, creativity, and chosen activity
+
+Material security is necessary for freedom, but it is not a complete account of human flourishing. People also seek meaning, relationships, play, discovery, identity, belonging, mastery, beauty, and creative expression. These purposes are diverse and cannot be fully specified by economic planning or a single political philosophy.
+
+The project should investigate how social conditions affect the freedom to choose activities, not assume that removing economic compulsion makes all activity effortless or that people will share one account of a meaningful life.
+
+The earlier game-development example belongs here. If people have secure access to necessities and creative tools, they may be freer to make, modify, preserve, share, and experiment without needing every activity to become a revenue source. But attribution, consent, privacy, recognition, control over one's work, community relationships, and the ability to support chosen projects still matter.
+
+Questions for this project:
+
+- What forms of work and effort do people choose when survival is less dependent on selling labor?
+- How do creativity, play, education, care, and discovery contribute to flourishing?
+- How can communities support shared culture without imposing uniform tastes or values?
+- How should rights, attribution, consent, and stewardship work when copying and modification become easier?
+- How can people pursue meaningful lives that are not measured by productivity?
+
+24. A broader research framework
+
+The following dimensions can be used to evaluate proposed futures, technologies, and institutions. They are questions for investigation, not a universal scorecard.
+
+- Material security: are the conditions for a decent life reliably available?
+- Real capabilities: can people actually use available resources and opportunities?
+- Autonomy: can people make meaningful choices and refuse unwanted arrangements?
+- Power: who sets rules, controls infrastructure, and can enforce decisions?
+- Participation: can affected people understand and influence decisions?
+- Pluralism: can different ways of living coexist?
+- Creativity and learning: can people explore, experiment, and develop skills?
+- Care: how are dependency, maintenance, and socially necessary care recognized and supported?
+- Ecology: are human activities compatible with durable Earth-system conditions?
+- Resilience: can communities withstand shocks and adapt?
+- Correctability: can institutions recognize mistakes and change without catastrophic breakdown?
+- Intergenerational responsibility: do present arrangements preserve meaningful possibilities for future generations?
+
+No single metric can adequately represent these dimensions. Quantitative indicators can help, but they should be combined with qualitative research, historical comparison, lived experience, and public deliberation.
+
+25. Research method: compare futures, not labels
+
+The project should compare concrete arrangements and their consequences rather than rank ideological identities in the abstract.
+
+For each proposed institution, technology, or social arrangement, ask:
+
+1. What human need or capability is it intended to support?
+2. What material resources and infrastructure does it require?
+3. Who owns, maintains, and governs it?
+4. Who benefits, who bears costs, and who is excluded?
+5. What dependencies or concentrations of power does it create?
+6. Can affected people challenge, leave, or revise it?
+7. How does it perform under ecological constraints and unexpected shocks?
+8. What evidence exists from historical or contemporary examples?
+9. What are its failure modes and unintended consequences?
+10. What alternative arrangements have been tested?
+
+Keep distinctions between established findings, historical interpretations, normative arguments, proposals, and hypotheses. Do not treat a thought experiment as evidence or a model as a demonstrated outcome.
+
+26. New bibliography and open-access starting points
+
+Human development and capabilities
+
+Amartya Sen — Development as Freedom (1999).
+
+Martha C. Nussbaum — Creating Capabilities: The Human Development Approach (2011).
+
+Manfred Max-Neef, Antonio Elizalde, and Martín Hopenhayn — Human Scale Development: Conception, Application and Further Reflections (1986).
+
+Capability Approach, Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/capability-approach/
+
+Technology and autonomy
+
+Ivan Illich — Tools for Conviviality (1973). Bibliographic record: https://openlibrary.org/works/OL2848898W/Tools_for_Conviviality
+
+Lewis Mumford — Technics and Civilization (1934).
+
+Donella Meadows — Thinking in Systems: A Primer (2008). Publisher information: https://www.chelseagreen.com/product/thinking-in-systems/
+
+Prosperity and ecological limits
+
+Tim Jackson — Prosperity Without Growth: Foundations for the Economy of Tomorrow (2009; second edition 2017). https://timjackson.org.uk/about/publications/books/
+
+Kate Raworth — Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist (2017). Doughnut framework: https://doughnuteconomics.org/doughnut
+
+Giorgos Kallis and colleagues — "Post-growth: the science of wellbeing within planetary boundaries" (The Lancet Planetary Health, 2025). https://doi.org/10.1016/S2542-5196(24)00310-3
+
+Aljoša Slameršak and colleagues — "Principles for a post-growth scenario of ambitious mitigation and high human well-being" (Nature Climate Change, 2026). https://doi.org/10.1038/s41558-026-02580-6
+
+Systems and civilization
+
+Donella H. Meadows, Dennis L. Meadows, Jørgen Randers, and William W. Behrens III — The Limits to Growth (1972).
+
+Planetary Boundaries research: https://www.stockholmresilience.org/research/planetary-boundaries.html
+
+27. Updated research status and next priorities
+
+The project now has two connected scopes:
+
+- Historical and institutional analysis: how economic systems, ownership, authority, technology, and forms of cooperation have developed.
+- Civilizational futures: what conditions could allow humanity to expand freedom, capabilities, flourishing, and ecological stability.
+
+The first scope remains essential. The second prevents the investigation from becoming a debate about which inherited label should define the future.
+
+The new research areas are an initial map, not an exhaustive survey. Some books and frameworks are established foundations; others are contested proposals. Bibliographic entries and substantive claims should continue to be verified against primary texts, publisher records, peer-reviewed research, and empirical evidence.
+
+Next priorities:
+
+1. Read Sen's capability approach alongside Nussbaum's account and examine disagreements between them.
+2. Compare Illich's convivial tools with Bookchin's liberatory technology and contemporary AI infrastructure.
+3. Study post-growth research alongside ecological economics, planetary boundaries, and universal provisioning.
+4. Use Meadows' systems thinking to map feedback loops that reproduce dependency and concentrated power.
+5. Compare polycentric governance, federation, public provisioning, and peer production as different coordination arrangements.
+6. Develop a framework for evaluating human flourishing that protects pluralism and avoids reducing people to productivity metrics.
+7. Compare concrete historical and contemporary cases, including failures and unintended consequences.
+8. Revisit the project's central question without assuming that any one ideology supplies the final answer.
+
+The guiding question is now:
+
+How can humanity organize its shared capabilities and material conditions so that more people can live secure, self-directed, meaningful lives, while preserving the ecological foundations and institutional freedom needed for future generations?
 
 End of working draft — research and theoretical development remain open.
 
