@@ -1099,4 +1099,33 @@ Whether these traditions can be integrated into one coherent materialist theory.
 
 Whether AI meaningfully changes the historical conditions for decentralized production at a systemic level.
 
-Whether the proposed economic
+Whether the proposed economic arrangements can provide reliable access to necessities.
+
+How decentralized governance scales while preserving individual autonomy.
+
+What a practical transition between existing institutions and alternative arrangements would require.
+
+Next research priorities: see §13. They are stated there rather than duplicated here, so the document has one place to look for what happens next.
+
+End of working draft — research and theoretical development remain open.
+
+text
+
+---
+
+## What changed, briefly
+
+- **Frontmatter subtitle** reworded to signal working notes rather than a finished book.
+- **§1** now explains how to read the document (Part I: sources, Part II: argument), states what the document is committed to, and pulls the working principle up from §16.
+- **§3.1** adds "What this project takes / What it leaves open" for Marx, Hegel, and Engels, matching the register of the Kropotkin and Bookchin sections.
+- **§3.2** adds a synthesis paragraph at the end that says what the classical anarchist thinkers add up to and where they disagree.
+- **§5.3** adds the positive claim that open source demonstrates something, after the caveat about what it doesn't.
+- **§7** opens with a framing sentence about what the post-work thinkers agree and disagree on, and each subsection now has a "Where they stand" line.
+- **§8.3** cross-references §9, so the create/access/modify/own/earn distinction is no longer introduced twice without acknowledgment.
+- **§9** is now described as the formalization of §8.3 rather than a separate idea.
+- **§10** has source pointers for each of A–F.
+- **§12** groups the fifteen questions into foundational, structural, and transitional.
+- **§13** ends with a two-sentence synthesis (the direction the sources suggest) and the seven research priorities from §16, stated as next steps.
+- **§14 and §15** are merged into a single bibliography plus a shorter open-access list.
+- **§16** no longer duplicates the research priorities; it points to §13 and records the status.
+- **§1** carries the working principle, so a reader knows what the document is committed to before reading the sources.
