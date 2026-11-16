@@ -1,694 +1,1102 @@
 ---
-title: "Working Anarchy: A Materialist Research Program"
-version: "0.1.0"
-status: "working-draft"
-date: "2026-11-16"
-type: "living-research-document"
+title: A Materialist Theory of Anarchism
+subtitle: Working notes toward a materialist account of decentralized freedom, technological abundance, and human flourishing
+version: 0.2.0
+status: Working Research Document
+date: 2026-11-16
+research_status: Initial landscape investigation
 ---
+A Materialist Theory of Anarchism
+Working notes toward a materialist account of decentralized freedom, technological abundance, and human flourishing
+1. Purpose
+This document investigates the possibility of developing a contemporary materialist theory of anarchism.
 
-# Working Anarchy
-## A materialist research program for freedom in an age of abundant productive capability
+The starting inspiration is Karl Marx: his analysis of capitalism, historical development, productive forces, class relations, and the contradictions between technological capabilities and existing economic structures.
 
-> Working question: What would a materialist theory of anarchism look like if it began from the productive capabilities of the present—including automation, networked coordination, open knowledge, and AI—and asked how people could use them to live freely without reproducing domination?
+The objective is to investigate whether a comparable analytical framework could be developed around anarchist principles, particularly in light of contemporary technological developments.
 
-**Status:** Working research draft. This is a map and starting synthesis, not an exhaustive literature review or a finished political program.
+The central question:
 
----
+What happens when humanity develops the productive capabilities to provide greater freedom and material security, but its economic and political institutions continue to restrict access to those capabilities?
 
-## 1. The starting intuition
+This is not an attempt to establish a finished ideology. It is an evolving investigation into existing scholarship, historical experience, contemporary technology, and possible forms of social organization. The project should preserve disagreements, competing theories, and unresolved questions rather than prematurely forcing everything into one ideological framework.
 
-There is a gap worth investigating between what people can increasingly make and what they are economically permitted to do with what they make.
+How to read this document. Sections 3 through 8 are a literature review: who said what, and why it matters to this project. Sections 9 through 13 are the project's own argument: what it thinks, what it takes from the sources, and what remains to be argued. Section 14 is the bibliography; section 15 collects open-access starting points; section 16 records where the research currently stands.
 
-People can collaborate across borders, publish knowledge, build software, create music and games, share designs, run local models, automate parts of production, and coordinate through networks. Yet access to the means of doing these things—and the ability to live while doing them—remains uneven. Much productive activity is still organized around wages, rents, platform ownership, intellectual-property restrictions, and the need to turn work into revenue.
+What this document is committed to. Do not assume that technological progress automatically produces freedom. Investigate who controls it, who benefits from it, what institutions shape it, and what alternative arrangements are materially possible. The ultimate objective is to understand how human productive capabilities can support a society in which people are increasingly free to organize their lives, cooperate, create, and flourish without unnecessary economic or political domination.
 
-The result is a contradiction:
+2. Initial thesis
+Human productive capabilities are historically developed through accumulated knowledge, cooperation, science, technology, and social organization.
 
-- The technical ability to reproduce, modify, distribute, and build on existing work expands.
-- The institutions that govern access, ownership, income, and control may continue to restrict those capabilities.
-- People may defend restrictions not because they intrinsically want scarcity, but because their survival depends on earning money from scarce access.
-- More powerful tools do not automatically produce more freedom. They can also concentrate control, intensify extraction, and make people dependent on infrastructure they do not govern.
+However, the institutions governing access to those capabilities do not necessarily develop at the same rate.
 
-The question is not simply whether technology can produce abundance. It is who controls productive systems, who can access their outputs, who bears their costs, who makes decisions, and whether people can refuse unwanted arrangements without losing the means to live.
+Capitalism has historically played a major role in developing productive capacity, industrial infrastructure, scientific research, and technological innovation. At the same time, private ownership, competition, profit requirements, and economic dependency shape how those capabilities are distributed and used.
 
-### The game-creation example
+As production becomes increasingly automated, decentralized, and accessible, contradictions may emerge between what people can collectively produce and the economic arrangements governing their ability to benefit from it.
 
-Imagine a world where a person can study a game, make compatible tools, create modifications, preserve old versions, build new experiences from shared techniques, or make something entirely new. In a society where people have secure access to housing, food, healthcare, education, and the tools of creation, fewer people would need to treat every creative act as a revenue opportunity.
+The possibility worth investigating is whether these developments create conditions for increasingly decentralized, cooperative, and non-hierarchical forms of organization.
 
-That does not mean creators would stop caring about their work. Attribution, consent, privacy, recognition, creative control, community, and the ability to support a chosen way of life would still matter. Nor does it settle difficult questions about copying, transformative work, preservation, commercial exploitation, or the use of another person's labor.
+The objective would not simply be to abolish existing institutions, but to understand what social arrangements could replace their useful functions without reproducing unnecessary domination.
 
-It does reveal a distinction worth keeping central:
+3. Intellectual foundations
+3.1 Marx, Hegel, and historical materialism
+Karl Marx (1818–1883)
 
-**The ability to create is not the same as the ability to make a living; the right to access a work is not the same as the right to control its creator.**
+Important concepts:
 
-A serious theory needs to examine these separately rather than treating the current market arrangement as the natural expression of creativity.
+Historical materialism.
 
----
+Productive forces and relations of production.
 
-## 2. The proposed intellectual task
+Class relations.
 
-The phrase "a Marx for anarchism" is a provocation, not a claim that anarchism lacks thinkers or history. Anarchism has extensive traditions of political economy, mutual aid, federation, anti-authoritarian organization, social ecology, and critiques of property and the state.
+Alienation.
 
-The more precise ambition is:
+Surplus value.
 
-**Develop a contemporary materialist analysis of how productive forces, ownership, dependency, hierarchy, and coordination interact—and connect that analysis to anarchist methods of organizing social life without centralized domination.**
+Capital accumulation.
 
-Marx is useful here as a methodological interlocutor. His work asks how material production and social relations shape historical possibilities, and how institutions that once enabled development can become constraints. He did not simply endorse capitalism as an ideal; he analyzed it as a historically transformative mode of production whose achievements and contradictions could make other arrangements possible. His relationship to Hegel is important, but Marx's method should not be reduced to a simple formula or a mechanical sequence of historical stages.
+Historical contradictions.
 
-Anarchist traditions contribute a different emphasis: the danger of concentrating authority, the need to build freedom into institutions, and the importance of voluntary association, mutual aid, decentralization, and federated coordination.
+The relationship between economic structures and political institutions.
 
-The aim is not to combine labels mechanically. It is to make the strongest questions from these traditions work together.
+Marx did not simply endorse capitalism. He recognized its historical development of productive capabilities while criticizing its social relations and exploitation. His analysis is useful because it investigates capitalism as a historically developing system rather than treating it as a permanent or inevitable arrangement.
 
-### A provisional synthesis
+What this project takes from Marx: the method of analyzing capitalism as a historically developing system; the distinction between productive forces and relations of production; the insistence that economic structures shape political institutions; and the idea that contradictions between developed capabilities and existing social relations create pressure for change.
 
-- **Marx:** How do productive forces and relations of production interact? Who owns and controls the means of production? How do exploitation, alienation, and class relations reproduce themselves?
-- **Anarchism:** How does authority become entrenched? How can people coordinate without creating a new ruling layer? How can association remain voluntary, federated, and accountable?
-- **Kropotkin:** What can mutual aid, cooperation, and shared provision contribute to social survival and flourishing?
-- **Bookchin:** How do technology, ecology, hierarchy, and decentralized political institutions relate?
-- **Ostrom:** Under what conditions can communities govern shared resources over time?
-- **Benkler and peer-production research:** How can distributed contributors create valuable goods outside the conventional firm and price-mediated market?
-- **Cybernetic and computational planning:** What kinds of information and feedback can support complex coordination, and what political dangers arise when coordination systems become centralized?
-- **Contemporary AI political economy:** Who controls compute, models, data, energy, interfaces, and the infrastructure through which new productive capabilities are accessed?
+What this project leaves open: whether Marx's account of class, the state, and historical inevitability is compatible with anarchist commitments; whether the labor theory of value is necessary to the argument or can be bracketed; and whether Marx's method can be separated from his political program.
 
-This is a research program, not a claim that these authors agree.
+Important works:
 
----
+The German Ideology (with Friedrich Engels, 1845–1846).
 
-## 3. Conceptual foundations
+The Communist Manifesto (1848).
 
-### 3.1 Productive forces and relations of production
+A Contribution to the Critique of Political Economy (1859).
 
-A materialist analysis asks what a society can produce, with which tools and knowledge, through what forms of cooperation, and under whose control.
+Capital, Volume I (1867).
 
-Productive forces include more than machines. They include:
+Critique of the Gotha Programme (1875).
 
-- human knowledge, skill, and practical experience;
-- tools, machines, software, and infrastructure;
-- energy, land, materials, and ecological systems;
-- communication and coordination networks;
-- accumulated scientific and cultural knowledge;
-- the organization of labor and cooperation.
+Grundrisse (1857–1858).
 
-Relations of production describe the social arrangements through which production is organized: ownership, access, employment, authority, obligations, distribution, and control.
+Georg Wilhelm Friedrich Hegel (1770–1831)
 
-A technology can increase productive capability while leaving the social relations around it unchanged. It can also be introduced in ways that strengthen existing owners. Therefore, "automation makes abundance possible" is not yet a political argument. The missing questions concern ownership, distribution, governance, and dependency.
+Relevant contributions:
 
-### 3.2 Capitalism as a historical system, not a natural endpoint
+Dialectical philosophy.
 
-A careful reading of Marx should avoid two caricatures:
+Historical development.
 
-1. That Marx thought capitalism was simply good and should be preserved.
-2. That Marx treated capitalism as a purely destructive system with no historically significant productive achievements.
+Contradiction and transformation.
 
-Marx analyzed capitalism's extraordinary capacity to reorganize production and expand productive forces while also examining exploitation, crises, class power, and the way social relations shape the use of those capabilities. Whether and how those contradictions produce a transition is a matter of historical and political analysis, not an automatic technological law.
+The relationship between individual freedom and social institutions.
 
-### 3.3 Anarchism as a problem of power and organization
+What this project takes from Hegel: the idea that historical development proceeds through contradiction and transformation rather than as a smooth accumulation; and the idea that individual freedom and social institutions are mutually constitutive rather than opposed.
 
-Anarchism is not one unified blueprint. It includes communist, collectivist, mutualist, individualist, syndicalist, social-ecological, and other currents. These disagree about markets, property, organization, and the role of collective institutions.
+What this project leaves open: whether dialectical method can be retained without Hegel's idealism; and whether the dialectical account of history is compatible with a materialist, non-teleological account of social change.
 
-A useful shared research question is how to prevent necessary coordination from turning into durable domination.
+Marx critically adapted Hegel's dialectical philosophy, shifting the emphasis toward material activity and historical social relations. The relationship between Hegelian dialectics and historical materialism deserves careful study rather than reducing it to a simple formula.
 
-Decentralization alone is not enough. Local groups can reproduce exclusion, informal hierarchy, patriarchy, racism, coercion, or oligarchy. A non-hierarchical system needs ways to make power visible, contestable, limited, and accountable.
+Friedrich Engels (1820–1895)
 
-### 3.4 Abundance is conditional
+Important works:
 
-"Post-scarcity" should not be treated as a magic condition in which every resource becomes unlimited. Physical limits, ecological costs, energy requirements, care work, maintenance, location, and time remain relevant.
+The Condition of the Working Class in England (1845).
 
-A more useful distinction is between:
+Anti-Dühring (1878).
 
-- **Artificial scarcity:** scarcity sustained by exclusion, restricted access, enclosure, or business models even when reproduction and sharing are feasible.
-- **Material scarcity:** limits arising from finite resources, ecological constraints, time, location, or production capacity.
-- **Socially produced scarcity:** deprivation caused by institutions and distribution systems rather than by an absolute lack of goods.
-- **Coordination scarcity:** situations where the resource exists but people lack the information, trust, infrastructure, or institutions needed to allocate it well.
+Socialism: Utopian and Scientific (1880).
 
-The political task is not to promise infinite consumption. It is to reduce avoidable deprivation, share necessary work, respect ecological limits, and give people more control over their lives.
+The Origin of the Family, Private Property and the State (1884).
 
----
+Why Engels matters to this project: The Origin of the Family, Private Property and the State is the most sustained attempt in the classical Marxist tradition to explain how political institutions emerge from economic organization, and it is therefore directly relevant to the question of what replaces those institutions. The Condition of the Working Class in England is an early model for investigating material conditions empirically rather than abstractly.
 
-## 4. Intellectual genealogy and people to study
+3.2 Classical anarchist political economy
+Anarchism already contains substantial traditions of economic and social analysis. The project should investigate these rather than assume anarchism lacks an intellectual foundation. What follows is not a survey of anarchist thought as such, but a survey of the thinkers whose economic and organizational arguments bear directly on this project.
 
-This section is a discovery map. Inclusion means relevance to the research question, not endorsement or agreement.
+Pierre-Joseph Proudhon (1809–1865)
 
-### 4.1 Marx, Hegel, and historical materialism
+Relevant concepts:
 
-**Primary works**
-- G. W. F. Hegel, *The Phenomenology of Spirit* (1807); *Elements of the Philosophy of Right* (1821).
-- Karl Marx, *Economic and Philosophic Manuscripts of 1844*.
-- Marx and Friedrich Engels, *The German Ideology* (written 1845–46).
-- Marx, *The Poverty of Philosophy* (1847).
-- Marx, *Wage Labour and Capital* (1847; later edited publication).
-- Marx, *Grundrisse* (notebooks written 1857–58).
-- Marx, *A Contribution to the Critique of Political Economy* (1859), especially the preface.
-- Marx, *Capital*, Volume I (1867); Engels edited Volumes II and III from Marx's manuscripts.
+Mutualism.
 
-**Questions to investigate**
-- How did Marx transform rather than simply repeat Hegelian dialectics?
-- What does historical materialism actually claim, and what are later simplifications?
-- How do productive forces and relations of production interact?
-- How do commodity production, value, surplus value, and wage labor shape social life?
-- What is the relationship between alienation and the organization of production?
+Mutual credit.
 
-**Useful scholarship**
-- Stanford Encyclopedia of Philosophy, "Karl Marx."
-- Work on Marx's method, value theory, alienation, and the history of Marxist interpretations.
+Federalism.
 
-Marx should be treated as a source of analytical tools and arguments to examine, not as an authority whose conclusions settle the project.
+Decentralized economic relationships.
 
-### 4.2 Classical anarchist political economy
+Criticism of concentrated property and authority.
 
-**Pierre-Joseph Proudhon**
-- *What Is Property?* (1840).
-- *The Philosophy of Poverty* (1846).
-- *The General Idea of the Revolution in the Nineteenth Century* (1851).
+Works:
 
-Proudhon is essential for debates about property, possession, mutualism, exchange, and decentralized economic association. His positions are contested and should not be collapsed into later anarchist communism.
+What Is Property? (1840).
 
-**Mikhail Bakunin**
-- *God and the State* (published posthumously, 1882).
-- *Statism and Anarchy* (1873).
+The Philosophy of Poverty (1846).
 
-Bakunin is important for critiques of state power, revolutionary authority, and the possibility that a self-appointed revolutionary leadership could become a new ruling class.
+The General Idea of the Revolution in the Nineteenth Century (1851).
 
-**Peter Kropotkin**
-- *Mutual Aid: A Factor of Evolution* (1902).
-- *The Conquest of Bread* (1892).
-- *Fields, Factories and Workshops* (1898).
+Mikhail Bakunin (1814–1876)
 
-Kropotkin connects cooperation, decentralized production, local provisioning, and social organization. His proposals should be assessed against modern supply chains, ecological knowledge, and contemporary technology rather than treated as ready-made answers.
+Relevant concepts:
 
-**Errico Malatesta**
-- *Anarchy* (1891).
-- *At the Café* (1922).
+Anti-authoritarian socialism.
 
-Useful for practical questions of organization, collective action, and the relationship between anarchist principles and political struggle.
+Criticism of centralized political power.
 
-**Emma Goldman**
-- *Anarchism and Other Essays* (1910).
-- *My Disillusionment in Russia* (1923).
+Collective freedom.
 
-Important for individual freedom, authority, social conformity, and the dangers of revolutionary state power.
+Federalism.
 
-**Voltairine de Cleyre**
-- Essays including "Anarchism" (1901) and work associated with anarchism without adjectives.
+Criticism of authoritarian revolutionary organization.
 
-Useful for pluralism among anarchist traditions and resistance to prematurely forcing one economic model onto all anarchists.
+Works:
 
-### 4.3 Social ecology, technology, and post-scarcity
+God and the State (1882, published posthumously).
 
-**Murray Bookchin**
-- "Towards a Liberatory Technology" (1965).
-- *Post-Scarcity Anarchism* (1971).
-- *Toward an Ecological Society* (1980).
-- *The Ecology of Freedom* (1982).
-- *The Philosophy of Social Ecology* (1990).
+Statism and Anarchy (1873).
 
-Bookchin is one of the closest existing precedents to the proposed project. He explicitly connects technology, ecology, hierarchy, decentralization, and post-scarcity possibilities. His later political project became Communalism, and he distanced himself from the anarchist label; that development is itself worth studying.
+Peter Kropotkin (1842–1921)
 
-**Related areas**
-- Social ecology.
-- Appropriate technology and convivial tools.
-- Ecological economics.
-- Democratic municipalism and federated local institutions.
-- Degrowth and post-growth debates.
+Especially important to this project.
 
-### 4.4 Contemporary anarchist scholarship and practice
+Relevant concepts:
 
-People and works to map further:
-- Ruth Kinna, scholarship on anarchist history and political thought.
-- Uri Gordon, *Anarchy Alive! Anti-Authoritarian Politics from Practice to Theory* (2008).
-- David Graeber, *Fragments of an Anarchist Anthropology* (2004), *Debt: The First 5,000 Years* (2011), *The Utopia of Rules* (2015), and *Bullshit Jobs* (2018).
-- Benjamin Franks, work on anarchism, ethics, and social movements.
-- Carl Levy and Matthew S. Adams, editors of *The Palgrave Handbook of Anarchism* (2019).
-- Hillary Lazar, Benjamin S. Case, and other scholars of contemporary anarchist movements and prefigurative politics.
-- Research on worker self-management, autonomous movements, solidarity economies, cooperatives, and federated organizations.
+Mutual aid.
 
-The research should include both political theory and accounts of actual organizing. The distance between an ideal institutional design and the lived experience of maintaining it is a central subject, not a footnote.
+Anarchist communism.
 
----
+Decentralized production.
 
-## 5. Existing research that connects technology and decentralized production
+Voluntary cooperation.
 
-### 5.1 Commons-based peer production
+Scientific and technological development.
 
-**Yochai Benkler**
-- *The Wealth of Networks: How Social Production Transforms Markets and Freedom* (2006).
-- "Peer Production, the Commons, and the Future of the Firm" (2016).
-- With Helen Nissenbaum, "Commons-Based Peer Production and Virtue" (2006).
+Distribution according to need.
 
-Benkler's work explains how networked contributors can create information goods through distributed cooperation, often without the conventional firm directing every contribution or a price coordinating every task.
+Works:
 
-Examples include free and open-source software, Wikipedia, shared knowledge projects, and collaborative standards.
+Mutual Aid: A Factor of Evolution (1902).
+
+The Conquest of Bread (1892).
+
+Fields, Factories and Workshops (1899).
+
+Kropotkin's Fields, Factories and Workshops is particularly relevant because it investigates decentralized production, regional self-sufficiency, industrial development, and the relationship between agriculture and manufacturing.
+
+Errico Malatesta (1853–1932)
+
+Relevant concepts:
+
+Anarchist organization.
+
+Voluntary association.
+
+Practical revolutionary organization.
+
+The distinction between anarchist principles and the practical realities of organizing society.
+
+Works:
+
+Anarchy (1891).
+
+At the Café (1920).
+
+Emma Goldman (1869–1940)
+
+Relevant concepts:
+
+Individual freedom.
+
+Social emancipation.
+
+Criticism of institutional authority.
+
+The relationship between personal autonomy and social organization.
+
+Works:
+
+Anarchism and Other Essays (1910).
+
+My Disillusionment in Russia (1923).
+
+Voltairine de Cleyre (1866–1912)
+
+Relevant concepts:
+
+Freedom of association.
+
+Anarchism without adjectives.
+
+Pluralism between competing anarchist economic arrangements.
+
+Her work is useful for preventing this project from assuming that every aspect of economic organization must have one universally imposed solution.
+
+What these thinkers add up to, and where they disagree. Taken together, the classical anarchist tradition offers a serious economic program: mutual credit and federated exchange (Proudhon), decentralized production and regional self-sufficiency (Kropotkin), and voluntary association as the basis of political organization (Bakunin, Malatesta, Goldman). It also offers a pluralist method: de Cleyre's "anarchism without adjectives" is a standing argument against treating any one of these arrangements as the only legitimate one. Where they disagree is on the boundary between market exchange and common ownership (Proudhon vs. Kropotkin), on the role of organized revolutionary action (Bakunin and Malatesta vs. Goldman's later skepticism), and on whether anarchism requires a single economic model at all (de Cleyre's answer: no). Those disagreements are part of the research subject, not obstacles to it.
+
+3.3 Social ecology and post-scarcity anarchism
+Murray Bookchin (1921–2006)
+
+This is one of the most important predecessors to investigate.
+
+Bookchin explored the relationship between technological development, ecological conditions, hierarchy, and decentralized social organization.
+
+Works:
+
+Post-Scarcity Anarchism (1971).
+
+Toward an Ecological Society (1980).
+
+The Ecology of Freedom (1982).
+
+The Philosophy of Social Ecology (1990).
+
+Particularly important:
+
+Post-Scarcity Anarchism examines the possibility that technological development could reduce material scarcity and create the conditions for greater human freedom.
+
+The Ecology of Freedom investigates hierarchy as a social and historical phenomenon.
+
+His later Communalism develops ideas around directly democratic municipalities and confederations.
+
+Bookchin eventually distanced himself from anarchism and developed Communalism as a distinct political framework. That evolution should also be examined.
+
+The central opportunity is to investigate how Bookchin's arguments change when applied to AI, modern automation, digital production, and distributed infrastructure.
+
+4. Contemporary anarchist and political theory
+The following scholars and thinkers provide additional perspectives.
+
+Ruth Kinna
+
+Anarchist political theory.
+
+Historical anarchist movements.
+
+Contemporary anarchist thought.
+
+Anarchism and political organization.
+
+Work: Anarchism: A Beginner's Guide (2005), alongside her research and annotated bibliography on anarchism.
+
+Uri Gordon
+
+Contemporary anarchist theory.
+
+Activist networks.
+
+Decentralized political organization.
+
+Work: Anarchy Alive! Anti-Authoritarian Politics from Practice to Theory (2008).
+
+David Graeber (1961–2020)
+
+Economic anthropology.
+
+Debt and monetary institutions.
+
+Bureaucracy.
+
+Informal economic organization.
+
+Anarchist anthropology.
+
+Works:
+
+Fragments of an Anarchist Anthropology (2004).
+
+Debt: The First 5,000 Years (2011).
+
+The Utopia of Rules (2015).
+
+Bullshit Jobs (2018).
+
+Benjamin Franks
+
+Contemporary anarchist ethics and political philosophy.
+
+Anarchism, social organization, and political practice.
+
+Carl Levy and Matthew S. Adams
+
+Historical and contemporary anarchist traditions.
+
+Intellectual history and political theory.
+
+Work: The Palgrave Handbook of Anarchism (2019).
+
+John Markoff, Hillary Lazar, Benjamin S. Case, and Daniel P. Burridge
+
+Contemporary anarchist activism.
+
+Decentralized political organization.
+
+The resurgence of anarchist practices in modern movements.
+
+Work: The Anarchist Turn in Twenty-First Century Leftwing Activism (2024).
+
+These works are important because anarchism is not one uniform economic or political model. Its internal disagreements are part of the research subject.
+
+5. Commons-based production and the digital economy
+This is one of the strongest connections to the original AI and creative-production argument.
+
+5.1 Yochai Benkler
+Commons-based peer production
+
+Work:
+
+The Wealth of Networks: How Social Production Transforms Markets and Freedom (2006).
+
+Commons-Based Peer Production and Virtue (with Helen Nissenbaum, 2006).
+
+Benkler investigates how people can collectively produce valuable resources without relying exclusively on market pricing or managerial hierarchies.
+
+Examples include:
+
+Free and open-source software.
+
+Wikipedia.
+
+Distributed knowledge production.
+
+Collaborative cultural production.
+
+This is directly relevant to the idea that people may create things because they want to, rather than because someone pays them to do so. The important distinction is between production motivated by financial compensation and production motivated by interest, cooperation, recognition, or shared purpose.
+
+5.2 Helen Nissenbaum
+Relevant work:
+
+Commons-based peer production.
+
+Ethical and social dimensions of collaborative production.
+
+Privacy and information governance.
+
+Her collaboration with Benkler provides a useful foundation for examining the social consequences of shared production.
+
+5.3 Free and open-source software
+Existing examples worth investigating:
+
+Linux.
+
+Blender.
+
+Wikipedia.
+
+GNU.
+
+Apache.
+
+Distributed development communities.
+
+These demonstrate that complex products can be developed, maintained, and improved through distributed participation.
+
+However, open-source production does not automatically eliminate commercial ownership, unpaid labor, infrastructure dependency, or economic inequality. What it does demonstrate is that complex, high-quality products can be developed and maintained without a single coordinating firm, and that participation can be sustained by interest and recognition rather than wages alone. Whether that model can be extended beyond software to physical production is one of the project's central questions.
+
+5.4 Digital commons and data cooperatives
+Researchers:
+
+Michael Max Bühler.
+
+Igor Calzada.
+
+Alex Pentland.
+
+Trebor Scholz.
+
+Divya Siddarth.
+
+Other contributors to research on digital commons and data cooperatives.
+
+Important work:
+
+Unlocking the Power of Digital Commons: Data Cooperatives as a Pathway for Data Sovereign, Innovative and Equitable Digital Communities (2023).
+
+This research investigates community control over data, digital infrastructure, and shared technological resources.
+
+5.5 Platform cooperativism
+Trebor Scholz
+
+Relevant concepts:
+
+Democratic ownership of digital platforms.
+
+Worker-owned platforms.
+
+Cooperative alternatives to platform capitalism.
+
+Shared control over technological infrastructure.
+
+Work:
+
+Uberworked and Underpaid (2016).
+
+Platform Cooperativism and related research.
+
+Greig de Peuter, Gemma de Verteuil, and Salome Machaka
+
+Work:
+
+Co-operatives, Work, and the Digital Economy: A Knowledge Synthesis Report (2022).
+
+This research is useful for understanding both the potential and limitations of cooperative economic arrangements in digital markets.
+
+6. Economic coordination beyond conventional markets and centralized states
+A decentralized society still needs to coordinate production, distribution, infrastructure, and resources. This is a major theoretical challenge.
+
+6.1 Elinor Ostrom (1933–2012)
+Ostrom investigated how communities govern shared resources without relying exclusively on privatization or centralized government.
+
+Important works:
+
+Governing the Commons (1990).
+
+Understanding Institutional Diversity (2005).
+
+Beyond Markets and States: Polycentric Governance of Complex Economic Systems (2009 lecture and 2010 article).
+
+Important concept: polycentric governance. This involves multiple overlapping centers of decision-making rather than one centralized authority.
+
+Her work is particularly valuable because it investigates actual institutions and their conditions for success.
 
 Important questions:
-- What kinds of work are suited to peer production?
-- What motivates contributors?
-- How are quality, maintenance, conflict, and accountability handled?
-- What infrastructure and governance do these projects depend on?
-- How do commercial platforms capture value from commons-based work?
 
-Peer production is not automatically anarchist. Projects can have maintainers, gatekeepers, unequal influence, corporate dependencies, and informal hierarchies. These are precisely the features to investigate.
+How do communities establish rules?
 
-### 5.2 Open-source software and digital commons
+How are shared resources monitored?
 
-Study:
-- Free Software Foundation and GNU history.
-- Linux kernel development and governance.
-- Debian and other community-governed distributions.
-- Wikipedia and Wikimedia governance.
-- Creative Commons licensing.
-- Open hardware and open scientific knowledge.
-- Public-interest digital infrastructure.
+How are disagreements resolved?
 
-Distinguish licenses and legal models carefully. "Open source," "free software," "public domain," "open access," and "commons" are related but not interchangeable. A work can be technically accessible while its infrastructure, governance, or commercial use remains concentrated.
+How do local arrangements coordinate with larger systems?
 
-### 5.3 Platform cooperativism and cooperative digital economies
+How do communities avoid resource depletion?
 
-**Trebor Scholz**
-- *Uberworked and Underpaid: How Workers Are Disrupting the Digital Economy* (2016).
-- Research and organizing around platform cooperativism.
+Ostrom's research should not automatically be classified as anarchist. Its value is that it provides empirical institutional research relevant to decentralized governance.
 
-**Further work**
-- *Co-operatives, Work, and the Digital Economy: A Knowledge Synthesis Report* (2022).
-- Research on data cooperatives and digital commons, including *Unlocking the Power of Digital Commons* (2023).
+6.2 Participatory economics
+Michael Albert and Robin Hahnel
 
-These approaches ask whether the platforms people depend on could be owned and governed by workers, users, communities, or combinations of them.
+Works:
 
-Questions:
-- Does cooperative ownership meaningfully redistribute decision-making power?
-- How do cooperatives finance infrastructure without recreating investor control?
-- How do they handle technical maintenance, labor, and democratic participation?
-- Can federations help small cooperatives share expensive infrastructure?
+The Political Economy of Participatory Economics (1991).
 
-### 5.4 Commons governance and Elinor Ostrom
+Parecon: Life After Capitalism (2003).
 
-**Elinor Ostrom**
-- *Governing the Commons: The Evolution of Institutions for Collective Action* (1990).
-- *Understanding Institutional Diversity* (2005).
-- "Beyond Markets and States: Polycentric Governance of Complex Economic Systems" (2010; related Nobel lecture in 2009).
+Participatory economics proposes:
 
-Ostrom studied how communities govern shared resources and developed influential work on institutional diversity and polycentric governance.
+Workers' councils.
 
-Her work is not simply anarchist theory. Its value here is empirical: it challenges the assumption that shared resources must always be governed either by privatization or by a single centralized authority.
+Consumer councils.
+
+Participatory planning.
+
+Balanced job complexes.
+
+Democratic coordination of economic activity.
+
+It provides a detailed alternative to both capitalist markets and conventional centralized planning. It also has significant criticisms and ongoing debates about the degree of participation required and how planning procedures affect individual freedom.
+
+6.3 Cybernetic socialism
+Stafford Beer (1926–2002)
+
+Relevant concepts:
+
+Management cybernetics.
+
+Feedback systems.
+
+Distributed information.
+
+Organizational viability.
+
+Recursive coordination.
+
+Works:
+
+Cybernetics and Management (1959).
+
+Decision and Control (1966).
+
+Brain of the Firm (1972).
+
+Designing Freedom (1974).
+
+Project Cybersyn, Chile (1971–1973)
+
+A historical experiment in using cybernetic systems and communications infrastructure to coordinate a partially nationalized economy under Salvador Allende.
+
+Important contributors:
+
+Stafford Beer.
+
+Fernando Flores.
+
+Chilean technical and administrative teams.
+
+Relevant secondary work:
+
+Eden Medina, Cybernetic Revolutionaries: Technology and Politics in Allende's Chile (2011).
+
+Cybersyn is worth studying as an experiment in economic information and feedback, but it was not an anarchist system. Its centralized state context is an important distinction.
+
+6.4 Computational economic planning
+W. Paul Cockshott and Allin Cottrell
+
+Works:
+
+Towards a New Socialism (1993).
+
+Calculation, Complexity and Planning: The Socialist Calculation Debate Once Again (1993).
+
+Their work examines whether modern computing can address problems historically raised against socialist economic planning.
+
+Jan Philipp Dapprich
+
+Relevant work:
+
+Optimal Planning with Consumer Feedback: A Simulation of a Socialist Economy (2023).
+
+Tokens Make the World Go Round (2023).
+
+Democratic Theory and Economic Planning: A Critique of Participatory Economics (2025).
+
+Cybersocialism and the Future of the Socialist Calculation Debate (2024).
+
+These works provide useful contemporary research into computational planning and the political implications of economic coordination.
+
+The central distinction for this project: Can computation help communities coordinate complex systems without giving computational administrators or infrastructure owners disproportionate power?
+
+7. Automation, post-work politics, and post-capitalism
+These thinkers agree that automation changes the terms of the work debate. They disagree sharply about whether abundance is arriving, whether it should be demanded, what role the state plays in getting there, and whether the work ethic itself is the problem. The differences matter for this project, because a materialist account of anarchism needs to be specific about what it thinks automation can and cannot do.
+
+7.1 Nick Srnicek and Alex Williams
+Work:
+
+Inventing the Future: Postcapitalism and a World Without Work (2015).
+
+Important proposals:
+
+Full automation.
+
+Shorter working weeks.
+
+Universal basic income.
+
+Challenging the conventional work ethic.
+
+Building political capacity for technological transformation.
+
+Where they stand: strategic. Automation is not treated as inevitable; it is treated as something to be demanded and organized for. Their contribution to this project is the insistence that technological capability is a political question, not a technical one.
+
+7.2 Paul Mason
+Work:
+
+PostCapitalism: A Guide to Our Future (2015).
+
+Investigates information technology, economic transitions, networked production, and the possibility of post-capitalist economic relationships.
+
+Where he stands: descriptive. Mason argues that information technology is already dissolving capitalist relations from within. His contribution is the argument that the transition is underway, not just possible.
+
+7.3 Aaron Bastani
+Work:
+
+Fully Automated Luxury Communism (2019).
+
+Explores technological abundance and the possibility of transforming economic production through automation and technological development.
+
+Where he stands: optimistic-utopian. His contribution is to make the case for abundance as a realistic horizon; his claims should be critically examined rather than accepted as guaranteed technological outcomes.
+
+7.4 André Gorz
+Relevant works:
+
+Critique of Economic Reason (1989).
+
+Reclaiming Work (1999).
+
+Gorz investigates the relationship between labor, economic necessity, autonomy, and alternative forms of social organization.
+
+Where he stands: skeptical of the work ethic itself, and less confident than Bastani that abundance is arriving. His contribution is the argument that the problem is not just how much work there is, but how work is organized and what it means.
+
+7.5 Universal basic income and universal basic services
+These are related but distinct proposals. Universal basic income provides individuals with an unconditional monetary income. Universal basic services focuses on ensuring access to essential services and resources.
+
+Both deserve examination, particularly in relation to the possibility that technological productivity could reduce the amount of labor required to provide necessities. Neither automatically eliminates capitalist ownership or economic dependency.
+
+8. Artificial intelligence and the emerging productive contradiction
+This section extends the earlier theoretical argument into contemporary technological conditions.
+
+AI is not simply another consumer product. It has implications for the organization of intellectual and creative production.
+
+Potential applications include:
+
+Software development.
+
+Game development.
+
+Music production.
+
+Translation.
+
+Education.
+
+Design.
+
+Research.
+
+Engineering.
+
+Administrative coordination.
+
+Scientific discovery.
+
+AI can lower barriers to participation in activities that previously required specialized training, large teams, or significant capital. However, access to advanced AI remains dependent on infrastructure, compute, data, energy, and ownership arrangements.
+
+8.1 The concentration problem
+Relevant research:
+
+Pieter Verdegem, Dismantling AI Capitalism: The Commons as an Alternative to the Power Concentration of Big Tech (published online 2022; journal volume 2024).
+
+This work directly examines the relationship between AI, corporate power, data extraction, and shared technological resources.
+
+Other relevant research:
+
+Computing Power and the Governance of Artificial Intelligence (2024), by Girish Sastry and colleagues.
+
+A Large-Scale Audit of Dataset Licensing and Attribution in AI (2024).
+
+Economies of Open Intelligence: Tracing Power & Participation in the Model Ecosystem (2025).
+
+These works raise questions about who controls compute, datasets, models, and the infrastructure necessary to develop and operate AI.
+
+8.2 The AI commons
+Potential areas of investigation:
+
+Community-owned compute infrastructure.
+
+Open model development.
+
+Cooperative data governance.
+
+Shared training resources.
+
+Public research infrastructure.
+
+Distributed inference.
+
+Community-controlled AI services.
+
+Transparent licensing and attribution.
+
+The important question is whether AI capabilities can become genuinely accessible without becoming dependent on a handful of infrastructure providers.
+
+8.3 Creative production and the video game example
+Consider someone independently creating a video game with AI-assisted tools. Another person might:
+
+Reverse-engineer its mechanics.
+
+Create a compatible implementation.
+
+Modify the game.
+
+Translate it.
+
+Create new assets.
+
+Develop an entirely different experience using the original as inspiration.
+
+Under a conventional commercial model, this can threaten the original creator's revenue. But the conflict is partly shaped by the fact that creators often depend on sales to maintain their livelihoods. If access to necessities were not dependent on selling creative output, the economic consequences of someone making an alternative version could be substantially different.
+
+This does not mean creators would stop caring about:
+
+Attribution.
+
+Consent.
+
+Recognition.
+
+Creative control.
+
+Privacy.
+
+Compensation.
+
+Their relationships with communities.
+
+It means these questions could be approached without making financial survival the overriding consideration.
+
+Important distinction (developed further in §9): the ability to create something, the right to access it, the ability to modify it, ownership of it, and the ability to earn a livelihood from it are separate questions. AI may change the first of these dramatically without automatically resolving the others.
+
+9. The central economic distinction: production versus survival
+This is potentially one of the most important foundations of the project. It formalizes the distinction introduced in §8.3 and carries it through the rest of the document.
+
+Modern productive systems frequently bundle together several separate concepts:
+
+Producing something useful.
+
+Controlling the resources required to produce it.
+
+Controlling access to the resulting product.
+
+Receiving compensation for the work.
+
+Obtaining the necessities of life.
+
+These relationships are historically contingent rather than necessarily inseparable.
+
+A person can produce something valuable without wanting to sell it. A community can maintain useful infrastructure without treating every contribution as a commercial transaction. A person can participate in creative activity without expecting financial compensation.
+
+However, people still require access to material necessities. The challenge is therefore not simply to make production free. It is to understand how access to necessities can become less dependent on selling labor.
+
+This distinction should guide much of the future research.
+
+10. Proposed analytical framework
+The following is a preliminary framework synthesized from the existing traditions above. It is a research proposal, not an established theory. Each part lists the sources in §3–§8 that inform it.
+
+A. Productive capabilities
+What can humanity collectively produce?
 
 Investigate:
-- Clearly defined resource and user boundaries.
-- Locally appropriate rules.
-- Participation in rule-making.
-- Monitoring and accountability.
-- Graduated responses to rule violations.
-- Accessible conflict resolution.
-- Recognition of communities' rights to organize.
-- Nested or polycentric institutions for larger systems.
 
-Do not turn these principles into a universal checklist. Their application depends on the resource, community, power relations, and wider legal environment.
+Automation.
 
----
+AI.
 
-## 6. Coordination beyond the conventional firm and market
+Robotics.
 
-A decentralized society still has to coordinate complex activity: energy, transport, food systems, healthcare, communications, manufacturing, disaster response, and ecological restoration.
+Manufacturing.
 
-"Just let everyone coordinate voluntarily" is not a sufficient institutional design. The question is what information, procedures, agreements, and accountability structures make coordination possible without creating an unanswerable center of power.
+Energy.
 
-### 6.1 Cybernetics and Project Cybersyn
+Agriculture.
 
-**Stafford Beer**
-- *Cybernetics and Management* (1959).
-- *Decision and Control* (1966).
-- *Brain of the Firm* (1972).
-- *Designing Freedom* (1974).
-- *Platform for Change* (1975).
+Scientific knowledge.
 
-**Project Cybersyn**, developed in Chile during the government of Salvador Allende (early 1970s), attempted to use communication networks and cybernetic ideas to support coordination across nationalized industry.
+Communications infrastructure.
 
-**Eden Medina**
-- *Cybernetic Revolutionaries: Technology and Politics in Allende's Chile* (2011).
+Sources: Marx (§3.1); Bookchin (§3.3); Bastani (§7.3); AI political economy (§8.1).
 
-Cybersyn is neither a direct blueprint for anarchism nor proof that centralized planning solves coordination. It is a historically important case for studying feedback, information flows, institutional power, and the political design of technical systems.
+B. Ownership and access
+Who controls productive capabilities?
 
-Questions:
-- What information should be local, and what must be shared across a federation?
-- Who defines the goals and acceptable constraints?
-- Can participants inspect and challenge the models used to coordinate them?
-- How can a system avoid turning measurement into surveillance or command?
-- What happens when local priorities conflict with system-wide requirements?
+Investigate:
 
-### 6.2 Computational planning and the socialist calculation debate
+Private property.
 
-**W. Paul Cockshott and Allin Cottrell**
-- *Towards a New Socialism* (1993).
-- "Calculation, Complexity and Planning: The Socialist Calculation Debate Once Again" (1993).
+Commons.
 
-**Participatory economics**
-- Michael Albert and Robin Hahnel, *The Political Economy of Participatory Economics* (1991).
-- Albert, *Parecon: Life After Capitalism* (2003).
+Cooperatives.
 
-**Recent debate**
-- Jan Philipp Dapprich, research on democratic theory, economic planning, and participatory economics (including 2025 work).
+Public infrastructure.
 
-These approaches differ substantially. They investigate whether computational systems, participatory institutions, and planning procedures can coordinate production and distribution without relying on conventional capitalist markets.
+Community ownership.
 
-Critical issues include:
-- Information quality and uncertainty.
-- Local knowledge and changing preferences.
-- Administrative complexity.
-- Incentives and the distribution of unpleasant work.
-- Democratic legitimacy and participation costs.
-- The risk that planners or technical experts become a distinct authority.
-- Ecological accounting and non-market values.
+Intellectual property.
 
-Computers can improve calculation. They cannot decide legitimate social goals by themselves.
+Digital ownership.
 
-### 6.3 Federations, municipalism, and nested coordination
+Sources: Proudhon (§3.2); Kropotkin (§3.2); Ostrom (§6.1); Benkler (§5.1); Scholz (§5.5); Verdegem (§8.1).
 
-Research:
-- Anarchist federation and syndicalist organization.
-- Bookchin's libertarian municipalism and later Communalism.
-- Polycentric governance.
-- Cooperative federations and confederations.
-- Participatory budgeting and democratic planning.
-- Community land trusts and shared infrastructure institutions.
+C. Economic dependency
+Why must people participate in particular economic relationships to survive?
 
-A useful design question is how decisions can remain close to the people affected while still coordinating across larger scales. Local autonomy and wider interdependence are not opposites, but their boundaries need careful design.
+Investigate:
 
----
+Wage labor.
 
-## 7. Automation, post-work, and economic security
+Housing.
 
-Automation changes the amount and kind of human labor required. It does not determine who receives the benefits.
+Land ownership.
 
-Relevant authors and works:
-- André Gorz, *Critique of Economic Reason* (1989) and *Reclaiming Work* (1999).
-- Nick Srnicek and Alex Williams, *Inventing the Future: Postcapitalism and a World Without Work* (2015).
-- Paul Mason, *PostCapitalism* (2015).
-- Aaron Bastani, *Fully Automated Luxury Communism* (2019).
-- Research on shorter working time, universal basic income, universal basic services, and the politics of work.
+Debt.
 
-These authors do not share one program. They are useful for examining how automation, labor, income, and political strategy relate.
+Financial systems.
 
-### Questions to keep separate
+Access to necessities.
 
-1. **Technical substitution:** Which tasks can be automated, and with what reliability?
-2. **Ownership:** Who owns the machines, models, data, and infrastructure?
-3. **Distribution:** Who receives the productivity gains?
-4. **Work:** Which necessary tasks remain, and how are they shared?
-5. **Security:** Can people refuse exploitative work without losing access to necessities?
-6. **Meaning:** How do people pursue craft, care, learning, contribution, and recognition when paid employment is less central?
+Economic coercion.
 
-Basic income and universal basic services should be compared rather than treated as synonyms. Income gives people purchasing power; services can guarantee access to particular necessities. Neither by itself guarantees democratic control of production or infrastructure.
+Sources: Marx (§3.1); Graeber (§4); Gorz (§7.4); the production-versus-survival distinction (§9).
 
----
+D. Coordination
+How can people organize complex systems without unnecessary centralized authority?
 
-## 8. AI and the new productive infrastructure
+Investigate:
 
-AI makes the central question more urgent, but it does not erase material constraints. AI systems depend on hardware, energy, data, skilled labor, networks, physical facilities, and institutions.
+Mutual aid.
 
-### 8.1 Infrastructure and concentration
+Federations.
 
-Investigate concentration across:
-- advanced semiconductor design and fabrication;
-- data centers, energy, and cooling;
-- cloud infrastructure and model-serving platforms;
-- foundation models and model weights;
-- datasets, licensing, and data provenance;
-- distribution channels and application ecosystems;
-- specialized labor and research capacity.
+Polycentric governance.
 
-Relevant research includes:
-- Pieter Verdegem, "Dismantling AI Capitalism: The Commons as an Alternative to the Power Concentration of Big Tech" (published online 2022; journal issue 2024).
-- Girish Sastry and co-authors, "Computing Power and the Governance of Artificial Intelligence" (2024).
-- Research on dataset licensing and attribution, including a 2024 *Nature Machine Intelligence* audit.
-- "Economies of Open Intelligence: Tracing Power & Participation in the Model Ecosystem" (2025).
-- Research on sociotechnical ecologies of AI, accountability, and global governance (2025).
+Participatory economics.
 
-These sources examine different layers of power. The document should not treat "open AI" as a single condition.
+Cybernetics.
 
-### 8.2 What does an AI commons mean?
+Distributed computing.
 
-Possible components include:
-- open educational and scientific resources;
-- transparent and responsibly licensed datasets;
-- reproducible research;
-- open model weights where safe and appropriate;
-- interoperable tools and protocols;
-- community-governed compute;
-- public-interest infrastructure;
-- cooperative ownership and governance;
-- clear attribution and contribution records;
-- mechanisms for contesting harmful or extractive uses.
+Cooperative planning.
 
-Each component raises separate questions about safety, privacy, consent, labor, energy, maintenance, and control. Open access to a model does not automatically create an open or democratic ecosystem if compute, distribution, or decision-making remains concentrated.
+Sources: Bakunin (§3.2); Kropotkin (§3.2); Ostrom (§6.1); Albert and Hahnel (§6.2); Beer and Project Cybersyn (§6.3); Cockshott, Cottrell, and Dapprich (§6.4).
 
-### 8.3 AI as a productive capability, not an independent political solution
+E. Human autonomy
+How can individuals retain meaningful freedom within cooperative systems?
 
-AI may reduce the cost of some forms of design, translation, programming, research, education, and creative production. But it can also centralize surveillance, displace workers without security, intensify platform dependence, or shift value toward infrastructure owners.
+Investigate:
 
-The relevant question is not whether AI is inherently liberatory or oppressive. It is how its development and use are organized, whose capabilities it expands, whose labor and data it depends on, and who can govern or refuse its use.
+Freedom of association.
 
----
+Voluntary participation.
 
-## 9. A provisional analytical framework
+Personal autonomy.
 
-Use the following dimensions to examine any proposed institution, technology, or economic arrangement.
+Privacy.
 
-| Dimension | Core question |
-|---|---|
-| Productive capability | What can people make, maintain, learn, or provide? |
-| Access | Who can use the tools, knowledge, infrastructure, and outputs? |
-| Ownership and control | Who can set rules, exclude others, change systems, or capture benefits? |
-| Economic dependency | What must a person do to secure the necessities of life? |
-| Coordination | How are needs, resources, priorities, and constraints communicated? |
-| Authority | Who makes decisions, and how can those decisions be challenged? |
-| Distribution | Who receives benefits and who carries costs or unpleasant work? |
-| Ecology | What materials, energy, land, and waste are involved? |
-| Autonomy | Can people meaningfully refuse, exit, dissent, or form alternatives? |
-| Care and maintenance | Who performs ongoing work that keeps the system functioning? |
-| Resilience | Can the system survive outages, conflict, supply disruptions, or loss of expertise? |
-| Accountability | How are harms identified, repaired, and prevented from recurring? |
+Diversity.
 
-A system should not be called free merely because it is decentralized, open-source, cooperative, or automated. Each label points to a possibility, not a guarantee.
+Conflict resolution.
 
----
+Protection against informal and formal hierarchies.
 
-## 10. Tensions and objections the theory must survive
+Sources: Goldman (§3.2); de Cleyre (§3.2); Bookchin (§3.3); Gordon (§4); Dapprich's critique of participatory economics (§6.4).
 
-A useful theory should expose its own weak points.
+F. Human flourishing
+What becomes possible when survival is less dependent on compulsory economic participation?
 
-### 10.1 Scarcity and ecological limits
+Investigate:
 
-Some resources cannot be reproduced at negligible cost. What institutions allocate scarce materials, land, energy, and time fairly while respecting ecological limits?
+Creativity.
 
-### 10.2 Coordination at scale
+Education.
 
-How can communities coordinate complex interdependent systems without either fragmenting into isolated local units or creating an unaccountable center?
+Scientific exploration.
 
-### 10.3 Necessary and undesirable work
+Leisure.
 
-Automation will not remove every form of care, maintenance, sanitation, repair, or emergency response. How can necessary work be shared, reduced, compensated, rotated, or made more desirable without coercion?
+Community.
 
-### 10.4 Informal hierarchy
+Relationships.
 
-Even without formal offices, influence can accumulate through expertise, charisma, social networks, control of infrastructure, or access to information. What makes authority visible and contestable?
+Personal development.
 
-### 10.5 Commons and individual autonomy
+Voluntary contribution.
 
-Shared governance can protect common resources, but it can also become intrusive. How are minority positions, individual experimentation, and exit protected?
+Sources: Kropotkin (§3.2); Bookchin (§3.3); Benkler and Nissenbaum (§5.1–§5.2); the video game example (§8.3); Srnicek and Williams (§7.1).
 
-### 10.6 Open creation and creator rights
+11. Important contradictions and criticisms
+A credible theory must investigate its own weaknesses.
 
-Sharing can expand culture and knowledge, but unconsented copying, plagiarism, commercial appropriation, privacy violations, and exploitative data use remain real concerns. What rights and norms protect creators without turning every act of reuse into a permission toll?
+Technological abundance versus material scarcity
+Digital goods can often be copied cheaply. Land, energy, physical infrastructure, and ecological resources remain constrained. A society cannot assume that every resource becomes unlimited through automation.
 
-### 10.7 Technology and dependency
+Decentralization versus coordination
+Local autonomy is valuable, but large infrastructure systems require coordination across communities. How can this happen without creating permanent centralized authority?
 
-A community may own a tool but depend on external suppliers, proprietary components, cloud services, or specialist knowledge. What does meaningful technological autonomy require?
+Voluntary contribution versus necessary labor
+Some necessary activities may remain undesirable, dangerous, or difficult. How should societies distribute these responsibilities fairly?
 
-### 10.8 Transition and institutional capture
+Shared resources versus individual autonomy
+Commons governance must not become another mechanism for controlling individuals. How can people participate without surrendering personal autonomy?
 
-How can existing institutions be transformed without creating a new permanent managerial or political class? How can experimental alternatives survive within systems that reward concentration?
+Automation versus ownership
+Automation can reduce labor requirements while concentrating productive wealth in the hands of infrastructure owners. Technological progress alone does not guarantee emancipation.
 
-### 10.9 Diversity of economic preferences
+Open production versus creator recognition
+How can communities encourage sharing, remixing, and collaboration while respecting the interests and agency of creators?
 
-Not everyone wants the same balance of collective provision, market exchange, personal property, communal ownership, or local autonomy. What plural arrangements can coexist without reproducing domination?
+Cooperation versus hierarchy
+Informal hierarchies can emerge even in organizations that formally reject authority. How can communities recognize and address those dynamics?
 
----
+12. Research questions
+The questions below are grouped by kind. Foundational questions concern the framework itself and must be answered before the project's own argument can be developed further. Structural questions concern the design of decentralized economic organization. Transitional questions concern how to get from here to there. The grouping is provisional; questions may move between tiers as the research develops.
 
-## 11. Research questions
+Foundational
 
-These are the current core questions, grouped to guide investigation.
+Can historical materialism be adapted into an explicitly anarchist framework?
 
-### Historical and theoretical
-1. What parts of Marx's method can be used without importing conclusions that conflict with anarchist commitments?
-2. How have anarchist thinkers already analyzed industrial development, technology, property, and economic coordination?
-3. Where do anarchist communist, mutualist, collectivist, individualist, syndicalist, and communalist approaches genuinely disagree?
-4. What does Bookchin's post-scarcity analysis add, and where does it need updating?
+What distinguishes anarchist materialism from Marxist historical materialism?
 
-### Technology and production
-5. Which productive capabilities are becoming cheaper, more distributed, or easier to access?
-6. Which bottlenecks remain materially concentrated?
-7. How do open-source and peer-production projects govern quality, maintenance, conflict, and shared infrastructure?
-8. What kinds of production can be decentralized, and which require federation or large-scale coordination?
+Can technological development create material conditions for decentralized economic organization?
 
-### Political economy
-9. How do people become economically dependent even when the means of production become more capable?
-10. What arrangements can secure necessities without requiring people to sell their labor under unacceptable conditions?
-11. How should income guarantees, universal services, commons, cooperatives, and public infrastructure relate?
-12. How can a society recognize and distribute care, maintenance, and other necessary work?
+How can communities prevent the re-emergence of concentrated power?
 
-### Governance and coordination
-13. What can Ostrom's empirical work teach anarchist institutional design, and where are the limits of the analogy?
-14. What can cybernetics and computational planning contribute without creating technocratic rule?
-15. How can federated institutions coordinate across scales while preserving local decision-making?
-16. What mechanisms prevent informal hierarchies from becoming durable ruling structures?
+Structural
 
-### AI and culture
-17. What would a genuinely democratic AI commons require at the levels of data, models, compute, energy, and governance?
-18. How can AI expand creative capacity without concentrating control over infrastructure and distribution?
-19. How should attribution, consent, privacy, and reuse be handled in a culture where copying and transformation are technically easy?
-20. What would creative life look like if livelihood were less dependent on exclusive control over every output?
+What does post-scarcity actually mean when ecological and physical constraints remain?
 
-### Transition
-21. Which existing institutions already demonstrate parts of the desired arrangement?
-22. What can be built now without waiting for a total social transformation?
-23. How do local experiments connect into durable federations and wider infrastructure?
-24. What evidence would show that a proposed arrangement actually increases freedom rather than merely changing who holds power?
+Can commons-based peer production expand beyond digital information goods?
 
----
+Can AI make sophisticated production accessible to small communities?
 
-## 12. Research method and standards of evidence
+How can communities maintain shared infrastructure without creating new ruling classes?
 
-The project should not become a list of famous names or a collection of quotations that support a predetermined conclusion.
+Can computational planning work without centralizing decision-making?
 
-For each important claim:
+What economic arrangements can reduce dependence on wage labor?
 
-1. Identify the exact claim and the concept it depends on.
-2. Prefer primary texts for what an author actually argued.
-3. Use reputable scholarship to understand context, interpretation, and disagreement.
-4. Use empirical research and documented case studies for claims about how institutions work in practice.
-5. Distinguish historical examples from contemporary implementations.
-6. Distinguish a proposal, prototype, pilot, maintained project, and demonstrated outcome.
-7. Record counterarguments and failure cases, not only successes.
-8. State what the evidence does not establish.
-9. Connect findings back to the analytical framework in Section 9.
-10. Update this document in place; use Git history to preserve earlier revisions.
+What role should markets, money, and exchange retain, if any?
 
-### Evidence labels
+Transitional
 
-- **Primary source:** original work, institutional record, dataset, or first-hand documentation.
-- **Peer-reviewed research:** academic work subject to scholarly review.
-- **Empirical case:** documented practice or observed outcome.
-- **Interpretation:** a reasoned reading of sources.
-- **Proposal:** a possible institutional design not yet demonstrated.
-- **Hypothesis:** a claim that requires further investigation.
-- **Open question:** unresolved issue or disagreement.
+How should necessary but undesirable work be organized?
 
-Do not treat a theoretical argument as empirical proof, or one successful case as universal evidence.
+Can different economic arrangements coexist through voluntary federation?
 
----
+What would a transition toward decentralized economic organization look like?
 
-## 13. Curated starting bibliography and source map
+What can historical anarchist experiments teach us about practical implementation?
 
-The following list is a starting point. It is intentionally selective and should expand as sources are checked and annotated.
+13. Preliminary theoretical direction
+A possible synthesis, stated as a position rather than a list of sources.
 
-### Reference works and scholarly overviews
-- Stanford Encyclopedia of Philosophy, ["Karl Marx"](https://plato.stanford.edu/entries/marx/).
-- Stanford Encyclopedia of Philosophy, ["Anarchism"](https://plato.stanford.edu/entries/anarchism/).
-- Carl Levy and Matthew S. Adams (eds.), *The Palgrave Handbook of Anarchism* (2019).
-- Ruth Kinna, work on anarchist political thought and history; see also her annotated bibliographies and research publications.
-- Institute for Social Ecology, [Bookchin and social ecology resources](https://social-ecology.org/).
+Marx provides a method for investigating the historical development of productive capabilities and the contradictions of existing economic relations. Anarchist traditions provide extensive analysis of authority, mutual aid, voluntary association, federation, and decentralized social organization. Bookchin provides an important connection between technological development, ecology, hierarchy, and post-scarcity possibilities. Ostrom provides empirical research into shared resource governance. Benkler provides an account of decentralized peer production. Cybernetic and computational socialism provide approaches to economic coordination. Contemporary AI research raises new questions about infrastructure ownership, productive capabilities, and technological power.
 
-### Marx, Hegel, and political economy
-- Hegel, *Phenomenology of Spirit*.
-- Marx, *The German Ideology*.
-- Marx, *A Contribution to the Critique of Political Economy*.
-- Marx, *Capital*, Volume I.
-- Friedrich Engels, *Socialism: Utopian and Scientific* (1880), read in its historical context.
+The direction these sources suggest is a materialist account that takes Marx's historical method without his political program, takes anarchism's commitment to decentralized organization without its tendency to treat economic coordination as an afterthought, and uses Ostrom, Benkler, and the computational planning literature to fill the coordination gap that both traditions leave open. The production-versus-survival distinction (§9) is the analytic hinge: it is what allows the project to separate the question of what can be produced from the question of who controls access to it, and therefore from the question of how people obtain the necessities of life.
 
-### Anarchist thought
-- Proudhon, *What Is Property?*
-- Bakunin, *Statism and Anarchy*.
-- Kropotkin, *Mutual Aid*; *The Conquest of Bread*; *Fields, Factories and Workshops*.
-- Malatesta, *Anarchy*.
-- Goldman, *Anarchism and Other Essays*.
-- de Cleyre, selected essays.
-- Bookchin, *Post-Scarcity Anarchism*; *The Ecology of Freedom*.
+Whether that synthesis holds is what the rest of the project needs to test. The next priorities are concrete:
 
-### Commons, peer production, and governance
-- Yochai Benkler, [*The Wealth of Networks*](https://cyber.harvard.edu/wealth_of_networks/Main_Page) (2006).
-- Benkler, "Peer Production, the Commons, and the Future of the Firm" (2016).
-- Benkler and Nissenbaum, "Commons-Based Peer Production and Virtue" (2006).
-- Elinor Ostrom, *Governing the Commons* (1990).
-- Ostrom, "Beyond Markets and States: Polycentric Governance of Complex Economic Systems" (2010).
-- Trebor Scholz, *Uberworked and Underpaid* (2016).
-- *Co-operatives, Work, and the Digital Economy: A Knowledge Synthesis Report* (2022).
-- *Unlocking the Power of Digital Commons* (2023).
+Read Bookchin's Post-Scarcity Anarchism alongside Kropotkin's Fields, Factories and Workshops.
 
-### Planning and cybernetics
-- Stafford Beer, *Cybernetics and Management*; *Brain of the Firm*; *Designing Freedom*.
-- Eden Medina, *Cybernetic Revolutionaries* (2011).
-- W. Paul Cockshott and Allin Cottrell, *Towards a New Socialism* (1993).
-- Michael Albert and Robin Hahnel, *The Political Economy of Participatory Economics* (1991).
-- Jan Philipp Dapprich, recent work on democratic economic planning and participatory economics.
+Compare Marx's historical materialism with anarchist critiques of historical development and state power.
 
-### Automation and post-work
-- André Gorz, *Critique of Economic Reason* (1989).
-- Nick Srnicek and Alex Williams, *Inventing the Future* (2015).
-- Paul Mason, *PostCapitalism* (2015).
-- Aaron Bastani, *Fully Automated Luxury Communism* (2019).
-- Research on universal basic income, universal basic services, shorter working time, and post-growth economics.
+Examine Benkler's peer-production framework and Ostrom's commons governance together.
 
-### AI and digital political economy
-- Pieter Verdegem, "Dismantling AI Capitalism: The Commons as an Alternative to the Power Concentration of Big Tech" (online 2022; journal issue 2024).
-- Girish Sastry et al., "Computing Power and the Governance of Artificial Intelligence" (2024).
-- "A Large-Scale Audit of Dataset Licensing and Attribution in AI" (*Nature Machine Intelligence*, 2024).
-- "Economies of Open Intelligence: Tracing Power & Participation in the Model Ecosystem" (2025).
-- Recent work on AI commons, data cooperatives, compute governance, and sociotechnical accountability.
+Investigate cybernetic socialism and computational planning, especially their centralization risks.
 
-### Historical and contemporary practice to investigate
-- GNU and the free-software movement.
-- Linux kernel and Debian governance.
-- Wikipedia and Wikimedia.
-- Creative Commons and open educational resources.
-- Worker cooperatives and platform cooperativism.
-- Community land trusts and community energy projects.
-- Solidarity economies and mutual-aid networks.
-- Project Cybersyn.
-- Participatory budgeting and municipalist experiments.
-- Federated digital services and community networks.
+Map contemporary AI ownership and infrastructure against the possibility of community-controlled production.
 
-For each case, investigate its actual governance, funding, labor, maintenance, scale, dependencies, and failures—not just its stated mission.
+Develop a theory of economic dependency that distinguishes productive work from the need to earn a living.
 
----
+Investigate practical examples and counterexamples rather than relying exclusively on theoretical arguments.
 
-## 14. Preliminary thesis
+The task is to understand the relationships, disagreements, limitations, and possibilities of these traditions, and then to say something they do not already say on their own.
 
-A contemporary materialist anarchism should begin neither with an abstract image of a perfectly free society nor with the assumption that current economic institutions are permanent.
+14. Research bibliography and source map
+The following sources establish the initial research foundation. This is a curated starting bibliography, not an exhaustive inventory of everything written on the subject. Where an open-access version exists, it is noted in §15.
 
-It should investigate the material capabilities people already possess and those emerging around them; identify how ownership, dependency, and authority shape their use; and study institutions that let people coordinate, share, and govern resources without surrendering control to a state, corporation, party, or technical elite.
+Historical materialism and Marx
+Karl Marx — The German Ideology (1845–1846).
 
-Marx helps analyze the historical development of productive capabilities and the contradictions of economic relations. Anarchist traditions help analyze authority, mutual aid, voluntary association, federation, and the dangers of reproducing hierarchy. Bookchin connects technology, ecology, and liberatory social organization. Ostrom offers empirical work on shared-resource governance. Benkler explains networked peer production. Cybernetic and computational planning explore coordination. Contemporary AI research reveals new concentrations of infrastructure and productive power.
+Karl Marx — A Contribution to the Critique of Political Economy (1859).
 
-The central proposition to test is:
+Karl Marx — Capital, Volume I (1867).
 
-**As the capacity to produce, reproduce, coordinate, and share expands, the decisive political question increasingly concerns whether people can collectively govern those capabilities and secure the material conditions of freedom—or whether those capabilities remain enclosed within systems of dependency and concentrated control.**
+G.W.F. Hegel — The Science of Logic (1812–1816).
 
-This is not a prediction that technology will make liberation inevitable. It is a claim that technology changes the material possibilities and constraints within which political struggle and institution-building occur.
+Stanford Encyclopedia of Philosophy — Karl Marx.
 
----
+Anarchism and political economy
+Peter Kropotkin — Mutual Aid (1902).
 
-## 15. Immediate research priorities
+Peter Kropotkin — The Conquest of Bread (1892).
 
-Recommended order:
+Peter Kropotkin — Fields, Factories and Workshops (1899).
 
-1. **Clarify the Marx/anarchism relationship.** Read the Marx and anarchism reference entries, then primary selections from Marx, Kropotkin, Proudhon, Bakunin, and Bookchin. Record agreements and real disagreements.
-2. **Study Bookchin closely.** *Post-Scarcity Anarchism* and *The Ecology of Freedom* are direct precedents; identify what remains useful and what needs updating.
-3. **Build an empirical commons map.** Compare Linux/Debian, Wikipedia, cooperative platforms, community networks, and shared-resource institutions using the same governance questions.
-4. **Study Ostrom and peer production together.** They examine different kinds of shared resources and collaborative production; their similarities and limits matter.
-5. **Investigate coordination.** Compare federation, participatory economics, cybernetics, and computational planning without assuming one model wins in advance.
-6. **Map AI infrastructure ownership.** Separate compute, energy, data, models, distribution, and governance rather than treating AI as one thing.
-7. **Return to the creative-work example.** Use games, software, music, and digital culture to test how livelihood, attribution, consent, reuse, and access could be organized differently.
-8. **Develop case studies and counterexamples.** Examine failed cooperatives, commons conflicts, governance capture, and infrastructure dependencies as seriously as celebrated examples.
+Murray Bookchin — Post-Scarcity Anarchism (1971).
 
----
+Murray Bookchin — The Ecology of Freedom (1982).
 
-## 16. Change log
+David Graeber — Fragments of an Anarchist Anthropology (2004).
 
-- **0.1.0 — 2026-11-16:** Initial research framework created. Establishes the central question, conceptual vocabulary, intellectual genealogy, research areas, analytical framework, tensions, research questions, and a curated starting bibliography. Sources are identified as a research map; individual claims and bibliographic details still require source-by-source verification.
+Uri Gordon — Anarchy Alive! (2008).
+
+Ruth Kinna — Anarchism: A Beginner's Guide (2005).
+
+Carl Levy and Matthew S. Adams (eds.) — The Palgrave Handbook of Anarchism (2019).
+
+Stanford Encyclopedia of Philosophy — Anarchism.
+
+Commons and peer production
+Yochai Benkler — The Wealth of Networks (2006).
+
+Yochai Benkler and Helen Nissenbaum — Commons-Based Peer Production and Virtue (2006).
+
+Yochai Benkler — Peer Production, the Commons, and the Future of the Firm (2016).
+
+Elinor Ostrom — Governing the Commons (1990).
+
+Elinor Ostrom — Beyond Markets and States (2009 lecture; 2010 article).
+
+Michael Max Bühler and colleagues — Unlocking the Power of Digital Commons (2023).
+
+Economic coordination and planning
+Michael Albert and Robin Hahnel — The Political Economy of Participatory Economics (1991).
+
+W. Paul Cockshott and Allin Cottrell — Towards a New Socialism (1993).
+
+Stafford Beer — Brain of the Firm (1972).
+
+Stafford Beer — Designing Freedom (1974).
+
+Eden Medina — Cybernetic Revolutionaries (2011).
+
+Jan Philipp Dapprich — Democratic Theory and Economic Planning (2025).
+
+Post-work and post-capitalism
+André Gorz — Critique of Economic Reason (1989).
+
+Nick Srnicek and Alex Williams — Inventing the Future (2015).
+
+Paul Mason — PostCapitalism (2015).
+
+Aaron Bastani — Fully Automated Luxury Communism (2019).
+
+Digital and AI political economy
+Nick Srnicek — Platform Capitalism (2016).
+
+Trebor Scholz — Uberworked and Underpaid (2016).
+
+Pieter Verdegem — Dismantling AI Capitalism (2022/2024).
+
+Girish Sastry and colleagues — Computing Power and the Governance of Artificial Intelligence (2024).
+
+A Large-Scale Audit of Dataset Licensing and Attribution in AI (2024).
+
+Economies of Open Intelligence (2025).
+
+15. Open-access starting points
+These are the sources in §14 that can be read in full without institutional access. The rest will need a library, a purchase, or an interlibrary loan.
+
+Marx and historical materialism: https://plato.stanford.edu/entries/marx/
+
+Anarchist philosophy: https://plato.stanford.edu/entries/anarchism/
+
+Benkler's The Wealth of Networks: https://cyber.harvard.edu/wealth_of_networks/
+
+Ostrom's Nobel lecture: https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/lecture/
+
+Bookchin's published works: https://social-ecology.org/wp/learn/published-books/
+
+Towards a New Socialism: https://users.wfu.edu/cottrell/socialism_book/
+
+Project Cybersyn: https://thereader.mitpress.mu.edu/project-cybersyn-chiles-radical-experiment-in-cybernetic-socialism/
+
+Platform cooperativism research: https://resources.platform.coop/
+
+Digital commons research: https://doi.org/10.3390/digital3030011
+
+AI commons and political economy: https://doi.org/10.1007/s00146-022-01437-8
+
+16. Current research status
+This is an initial landscape investigation (v0.2.0). The document has moved from surveying sources to stating a position; the position is provisional and the research priorities in §13 are what would test it.
+
+Established:
+
+Anarchist economic theory has a substantial historical foundation.
+
+Post-scarcity anarchism has already been explored, particularly by Bookchin.
+
+Commons-based peer production is an established field of research.
+
+Polycentric governance has substantial empirical foundations.
+
+Participatory and computational economic planning have existing theoretical models.
+
+Contemporary scholarship investigates AI infrastructure, ownership, and concentrated technological power.
+
+Not yet established:
+
+Whether these traditions can be integrated into one coherent materialist theory.
+
+Whether AI meaningfully changes the historical conditions for decentralized production at a systemic level.
+
+Whether the proposed economic
