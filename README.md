@@ -1,7 +1,7 @@
 ---
 title: A Materialist Theory of Anarchism
 subtitle: Research into human flourishing, civilizational futures, decentralized freedom, and technological change
-version: 0.3.0
+version: 0.4.0
 status: Working Research Document
 date: 2026-11-16
 research_status: Initial landscape investigation
@@ -21,7 +21,7 @@ What happens when humanity develops the productive capabilities to provide great
 
 This is not an attempt to establish a finished ideology. It is an evolving investigation into existing scholarship, historical experience, contemporary technology, and possible forms of social organization. The project should preserve disagreements, competing theories, and unresolved questions rather than prematurely forcing everything into one ideological framework.
 
-How to read this document. Sections 3 through 8 are a literature review: who said what, and why it matters to this project. Sections 9 through 13 are the project's own argument: what it thinks, what it takes from the sources, and what remains to be argued. Section 14 is the bibliography; section 15 collects open-access starting points; section 16 records where the research currently stands.
+How to read this document. Sections 3 through 8 review intellectual foundations and existing research. Sections 9 through 13 develop the project's provisional argument and research questions. Sections 14 through 16 collect references and record research status. Sections 17 through 27 broaden the inquiry toward human flourishing and civilizational futures. Section 28 begins a case-study approach to concrete technologies that may expand human capabilities. These divisions are guides, not sealed categories.
 
 What this document is committed to. Do not assume that technological progress automatically produces freedom. Investigate who controls it, who benefits from it, what institutions shape it, and what alternative arrangements are materially possible. The ultimate objective is to understand how human productive capabilities can support a society in which people are increasingly free to organize their lives, cooperate, create, and flourish without unnecessary economic or political domination.
 
@@ -1358,10 +1358,58 @@ Next priorities:
 6. Develop a framework for evaluating human flourishing that protects pluralism and avoids reducing people to productivity metrics.
 7. Compare concrete historical and contemporary cases, including failures and unintended consequences.
 8. Revisit the project's central question without assuming that any one ideology supplies the final answer.
+9. Evaluate concrete capability-expanding technologies by separating their claims, implementation, independent verification, practical accessibility, and effects on autonomy.
 
 The guiding question is now:
 
 How can humanity organize its shared capabilities and material conditions so that more people can live secure, self-directed, meaningful lives, while preserving the ecological foundations and institutional freedom needed for future generations?
+
+28. Capability-expanding technologies: REA as a case study
+
+A useful way to test the project's larger questions is to examine existing tools that may make specialized capabilities more accessible. The point is not to celebrate novelty, but to ask whether a working system actually changes who can understand, use, adapt, or maintain technology.
+
+REA (Reverse Engineer Anything) — https://github.com/morluto/rea
+
+REA is an open-source software project that presents an AI-agent workflow for investigating software artifacts and applications. Its repository includes a CLI, an MCP server, modular analysis capabilities, integrations with external analysis tools, documentation, and automated tests. It is therefore more substantial than a prompt or conceptual proposal: there is an implemented software project with distinct components that can be inspected.
+
+Why it matters here:
+
+- It potentially lowers the expertise barrier to investigating complex or opaque software.
+- It can help turn specialized analysis workflows into reusable tools that more people can access.
+- It may support learning, interoperability, software maintenance, preservation, and informed modification.
+- It illustrates how AI can act as a capability multiplier when connected to real tools and evidence, rather than operating only through conversational claims.
+
+Evidence and limitations
+
+The existence of source code, a package, integrations, and tests establishes that REA is an implemented project. It does not establish that every advertised workflow works reliably, that every integration is equally mature, or that the tool is accessible to people without technical setup.
+
+In the repository snapshot examined on 2026-11-16, package-building and several source-test jobs passed, while the inspected CI run also contained failures in Python producer tests and JavaScript test shards. One reported Python error involved a mismatch in the arguments expected by `catalog_receipt()`. This is evidence of active implementation and testing, but not a clean all-tests-passing result for that inspected run. CI results are time- and commit-specific and should be checked again before making claims about the current state.
+
+The project was inspected through its repository, source tree, tests, documentation, disclaimer, release information, and an associated CI run. It was not installed or independently exercised end-to-end as part of this research. Its practical performance, setup burden, and individual analysis workflows therefore remain unverified here. Some capabilities depend on external analysis engines or other tooling, which affects cost, accessibility, and how much of the workflow can be run locally.
+
+The project's own disclaimer and the terms governing any target software matter. This case study concerns legitimate analysis, learning, interoperability, preservation, and authorized testing—not bypassing access controls or using the tool against systems without permission.
+
+Questions raised by the case
+
+- Does the tool let a non-specialist complete tasks they could not previously perform, or mainly make existing expert workflows faster?
+- Which functions work with free and open tooling, and which require commercial or difficult-to-install dependencies?
+- Can users inspect and understand the evidence behind an agent's conclusions?
+- Can the workflow be run locally, modified, audited, and maintained without dependence on a single provider?
+- Does easier reverse engineering increase users' autonomy, or does it create new dependence on model services, tool vendors, and opaque agent orchestration?
+- What measurable tasks can be used to compare REA with existing manual workflows and other tools?
+
+Research significance
+
+REA is a promising example to investigate under convivial technology, capability expansion, and the digital commons. It is not evidence by itself that technical expertise has been democratized. The important question is whether its implementation, cost, reliability, documentation, and governance make the capability genuinely available—and whether users gain understanding and control rather than merely receiving outputs from another black box.
+
+For future case studies, use the same evidence ladder:
+
+1. Claims: what the project says it can do.
+2. Implementation: what source code, integrations, and shipped components exist.
+3. Verification: what tests, CI, independent evaluations, and reproducible demonstrations establish.
+4. Accessibility: what skills, hardware, services, licenses, and costs are required.
+5. Autonomy: whether users can inspect, modify, repair, self-host, and leave the system.
+6. Consequences: who benefits, who bears risks, and what new dependencies or power concentrations appear.
 
 End of working draft — research and theoretical development remain open.
 
