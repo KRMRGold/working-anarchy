@@ -1,13 +1,22 @@
 ---
 title: A Materialist Theory of Anarchism
 subtitle: Research into human flourishing, civilizational futures, decentralized freedom, and technological change
-version: 0.4.0
+version: 0.5.0
 status: Working Research Document
-date: 2026-11-16
+date: 2026-11-18
 research_status: Initial landscape investigation
 ---
 A Materialist Theory of Anarchism
 Working notes toward a materialist account of decentralized freedom, technological abundance, and human flourishing
+
+AI-assisted research and editorial note
+
+This repository is a human-directed research collection developed and iteratively curated with AI assistance. AI tools have been used to discover research leads, summarize and compare material, organize themes, and draft and revise sections. The documents should not be mistaken for independently verified academic scholarship or assumed to be wholly human-authored prose.
+
+AI-assisted summaries and references can contain errors, omissions, or oversimplifications. Treat claims, interpretations, quotations, and bibliographic details as research leads: check them against primary texts, original documentation, and reliable scholarship before relying on them. Distinctions between sourced findings, the interpretations of cited authors, and this project's provisional synthesis should be maintained.
+
+The purpose is to make collected research easier for other people to explore, question, extend, or summarize with their own AI tools if they wish. It is a starting point for independent inquiry, not a prescribed conclusion or a request to adopt one ideology. Readers are encouraged to follow the questions and directions they find useful.
+
 1. Purpose
 This document investigates the possibility of developing a contemporary materialist theory of anarchism.
 
@@ -20,6 +29,14 @@ The central question:
 What happens when humanity develops the productive capabilities to provide greater freedom and material security, but its economic and political institutions continue to restrict access to those capabilities?
 
 This is not an attempt to establish a finished ideology. It is an evolving investigation into existing scholarship, historical experience, contemporary technology, and possible forms of social organization. The project should preserve disagreements, competing theories, and unresolved questions rather than prematurely forcing everything into one ideological framework.
+
+The originating problem
+
+The project began with a practical concern about creative work: people may want to release, share, or show what they make, but hold back because they fear that others could copy it, reproduce it, redistribute it, or profit from it without their permission. That fear is often connected to material survival. When a creator depends on sales, commissions, licensing, or the exclusivity of a work to pay for necessities, making the work freely available can put their livelihood at risk.
+
+This is not simply a question of whether creators are generous or whether sharing is good. Under existing economic conditions, protecting control over a work may be part of protecting the means by which someone lives. A creator can value collaboration and openness while still having good reason to hesitate when the financial consequences of unauthorized use fall primarily on them.
+
+The initial question was whether AI-assisted production and increasingly accessible creative tools might change what people can make, reproduce, and build upon—and whether different material and social arrangements could make sharing and creative freedom less likely to conflict with economic security. The project does not assume that creators should release everything, that copying is always harmless, or that attribution and control no longer matter. It investigates what would allow people to choose whether, how, and under what terms to share their work without making that choice a threat to survival.
 
 How to read this document. Sections 3 through 8 review intellectual foundations and existing research. Sections 9 through 13 develop the project's provisional argument and research questions. Sections 14 through 16 collect references and record research status. Sections 17 through 27 broaden the inquiry toward human flourishing and civilizational futures. Section 28 begins a case-study approach to concrete technologies that may expand human capabilities. These divisions are guides, not sealed categories.
 
@@ -363,6 +380,8 @@ Collaborative cultural production.
 
 This is directly relevant to the idea that people may create things because they want to, rather than because someone pays them to do so. The important distinction is between production motivated by financial compensation and production motivated by interest, cooperation, recognition, or shared purpose.
 
+The project's starting concern about creative work belongs here: people may withhold work not because they oppose sharing, but because their livelihood depends on controlling its release and use. A meaningful alternative must address the material conditions that make openness risky, rather than simply asking creators to be more generous.
+
 5.2 Helen Nissenbaum
 Relevant work:
 
@@ -704,25 +723,25 @@ Create new assets.
 
 Develop an entirely different experience using the original as inspiration.
 
-Under a conventional commercial model, this can threaten the original creator's revenue. But the conflict is partly shaped by the fact that creators often depend on sales to maintain their livelihoods. If access to necessities were not dependent on selling creative output, the economic consequences of someone making an alternative version could be substantially different.
+Under a conventional commercial model, this can threaten the original creator's revenue. The creator may therefore hesitate to release source files, assets, or details that would make reuse easier—not necessarily because they oppose sharing, but because their income depends on sales, commissions, licensing, or some degree of exclusivity. Fear of having work taken or commercially reproduced without permission can be a rational response to an arrangement in which the creator bears the financial risk.
 
-This does not mean creators would stop caring about:
+The research question is not whether creators ought to give everything away. It is what material and institutional conditions would let them choose whether, how, and under what terms to share. If access to necessities were less dependent on selling creative output, the economic stakes of sharing or allowing others to build on a work could change. That would not automatically settle questions of rights, consent, attribution, or fair treatment.
 
-Attribution.
+Creators may still care about:
 
-Consent.
+Attribution and recognition.
 
-Recognition.
+Consent and the terms of reuse.
 
-Creative control.
+Creative control and the ability to set boundaries.
 
 Privacy.
 
-Compensation.
+Compensation for work they choose to commercialize.
 
-Their relationships with communities.
+Their relationships with audiences and communities.
 
-It means these questions could be approached without making financial survival the overriding consideration.
+The point is not to make these concerns disappear. It is to investigate whether they can be addressed without making financial survival depend so heavily on restricting access to creative work.
 
 Important distinction (developed further in §9): the ability to create something, the right to access it, the ability to modify it, ownership of it, and the ability to earn a livelihood from it are separate questions. AI may change the first of these dramatically without automatically resolving the others.
 
@@ -745,7 +764,9 @@ These relationships are historically contingent rather than necessarily insepara
 
 A person can produce something valuable without wanting to sell it. A community can maintain useful infrastructure without treating every contribution as a commercial transaction. A person can participate in creative activity without expecting financial compensation.
 
-However, people still require access to material necessities. The challenge is therefore not simply to make production free. It is to understand how access to necessities can become less dependent on selling labor.
+The creator's dilemma makes the distinction concrete. If releasing a work exposes it to unauthorized copying or substitution, and the creator relies on that work for income, then control over access can become tied to economic survival. Simply advocating openness does not resolve this conflict. Nor does separating survival from production imply that all work should become freely available or that creators should lose control over how it is used.
+
+The challenge is to understand how access to necessities can become less dependent on selling labor, while preserving meaningful choices around consent, attribution, recognition, privacy, compensation, and creative control. Greater material security could change the bargaining conditions around sharing; it does not predetermine what creators should choose.
 
 This distinction should guide much of the future research.
 
