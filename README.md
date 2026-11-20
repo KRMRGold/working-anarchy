@@ -1,7 +1,7 @@
 ---
 title: A Materialist Theory of Anarchism
 subtitle: Research into human flourishing, civilizational futures, decentralized freedom, and technological change
-version: 0.6.0
+version: 0.7.0
 status: Working Research Document
 date: 2026-11-20
 research_status: Initial landscape investigation
@@ -27,6 +27,8 @@ The objective is to investigate whether a comparable analytical framework could 
 The central question:
 
 What happens when humanity develops the productive capabilities to provide greater freedom and material security, but its economic and political institutions continue to restrict access to those capabilities?
+
+The project must distinguish formal freedom from freedom that is materially and practically possible. Legal rights, nominal access, and the existence of resources do not by themselves establish that people can use them, refuse unwanted arrangements, participate in decisions, or live with dignity. The investigation therefore includes the historical and continuing effects of slavery, forced labor, colonial extraction, ableism, disability exclusion, and other structures that restrict people's capabilities. These histories and systems are not interchangeable; they must be studied in their specific contexts and in the relationships among them.
 
 This is not an attempt to establish a finished ideology. It is an evolving investigation into existing scholarship, historical experience, contemporary technology, and possible forms of social organization. The project should preserve disagreements, competing theories, and unresolved questions rather than prematurely forcing everything into one ideological framework.
 
@@ -1327,22 +1329,28 @@ Questions for this project:
 
 24. A broader research framework
 
-The following dimensions can be used to evaluate proposed futures, technologies, and institutions. They are questions for investigation, not a universal scorecard.
+The following dimensions can be used to evaluate proposed futures, technologies, and institutions. They are questions for investigation, not a universal scorecard. The framework must examine both the distribution of resources and the conditions that determine whether different people can actually turn those resources into meaningful choices.
 
-- Material security: are the conditions for a decent life reliably available?
-- Real capabilities: can people actually use available resources and opportunities?
-- Autonomy: can people make meaningful choices and refuse unwanted arrangements?
-- Power: who sets rules, controls infrastructure, and can enforce decisions?
-- Participation: can affected people understand and influence decisions?
-- Pluralism: can different ways of living coexist?
-- Creativity and learning: can people explore, experiment, and develop skills?
-- Care: how are dependency, maintenance, and socially necessary care recognized and supported?
+- Material security: are the conditions for a decent life reliably available, without requiring submission to coercive or exploitative arrangements?
+- Real capabilities: can people actually use available resources and opportunities, given differences in circumstances, support needs, environments, and social barriers?
+- Autonomy and refusal: can people make meaningful choices, refuse unwanted arrangements, and do so without losing access to necessities?
+- Coercion and exploitation: where are people compelled, threatened, trapped by dependency, or denied meaningful alternatives? Who benefits from their constrained choices?
+- Historical inheritance: how have slavery, colonialism, dispossession, racial hierarchy, and other histories shaped present ownership, wealth, institutions, and distributions of power?
+- Accessibility and ableism: who can physically, cognitively, sensory-wise, communicatively, economically, and socially access institutions, tools, spaces, and opportunities? Which barriers are built into their design?
+- Accommodation and adaptation: who is expected to change to fit an institution, and who has the authority and resources to change the institution?
+- Care and interdependence: how are care, assistance, maintenance, and support recognized, resourced, and governed? Are people who need support able to exercise choice and control?
+- Power: who sets rules, controls infrastructure, owns productive assets, and can enforce decisions?
+- Participation: can affected people understand, access, influence, and challenge decisions in ways that are genuinely usable to them?
+- Pluralism: can different bodies, minds, ways of communicating, cultures, and ways of living coexist without being forced into one standard?
+- Creativity and learning: can people explore, experiment, develop skills, and contribute without being measured only by economic productivity?
 - Ecology: are human activities compatible with durable Earth-system conditions?
-- Resilience: can communities withstand shocks and adapt?
-- Correctability: can institutions recognize mistakes and change without catastrophic breakdown?
+- Resilience: can communities withstand shocks and adapt without shifting disproportionate burdens onto already disadvantaged people?
+- Correctability: can institutions recognize harm, respond to those affected, and change without requiring crisis or catastrophic breakdown?
 - Intergenerational responsibility: do present arrangements preserve meaningful possibilities for future generations?
 
-No single metric can adequately represent these dimensions. Quantitative indicators can help, but they should be combined with qualitative research, historical comparison, lived experience, and public deliberation.
+These dimensions should not be treated as a checklist that can be satisfied by declaring a policy universal or an institution open to everyone. Investigate actual access, practical usability, unequal support needs, and the experiences of people who encounter barriers. Avoid treating any population as homogeneous or assuming that one person's account represents everyone in a category.
+
+No single metric can adequately represent these dimensions. Quantitative indicators can help, but they should be combined with qualitative research, historical comparison, lived experience, and public deliberation. Measures of productivity, employment, independence, or economic output must not become proxies for a person's worth or entitlement to participate.
 
 25. Research method: compare futures, not labels
 
@@ -1351,15 +1359,17 @@ The project should compare concrete arrangements and their consequences rather t
 For each proposed institution, technology, or social arrangement, ask:
 
 1. What human need or capability is it intended to support?
-2. What material resources and infrastructure does it require?
+2. What material resources, infrastructure, care, and forms of assistance does it require?
 3. Who owns, maintains, and governs it?
-4. Who benefits, who bears costs, and who is excluded?
-5. What dependencies or concentrations of power does it create?
-6. Can affected people challenge, leave, or revise it?
-7. How does it perform under ecological constraints and unexpected shocks?
-8. What evidence exists from historical or contemporary examples?
-9. What are its failure modes and unintended consequences?
-10. What alternative arrangements have been tested?
+4. Who benefits, who bears costs, and who is excluded in practice?
+5. What forms of coercion, dependency, exploitation, or inherited disadvantage does it reproduce or reduce?
+6. Can people with different access and support needs use it, influence it, refuse it, and leave it without losing necessities?
+7. Who is expected to adapt: the individual, or the institution and environment?
+8. What dependencies or concentrations of power does it create?
+9. How does it perform under ecological constraints and unexpected shocks?
+10. What evidence exists from historical or contemporary examples, including testimony from affected people?
+11. What are its failure modes, unintended consequences, and mechanisms for remedy?
+12. What alternative arrangements have been tested?
 
 Keep distinctions between established findings, historical interpretations, normative arguments, proposals, and hypotheses. Do not treat a thought experiment as evidence or a model as a demonstrated outcome.
 
@@ -1374,6 +1384,36 @@ Martha C. Nussbaum — Creating Capabilities: The Human Development Approach (20
 Manfred Max-Neef, Antonio Elizalde, and Martín Hopenhayn — Human Scale Development: Conception, Application and Further Reflections (1986).
 
 Capability Approach, Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/capability-approach/
+
+Slavery, forced labor, and political economy
+
+W. E. B. Du Bois — Black Reconstruction in America (1935). A foundational analysis of emancipation, labor, race, political power, and the unresolved struggles over democracy after the American Civil War.
+
+Eric Williams — Capitalism and Slavery (1944). An influential argument about the relationship between slavery, colonial commerce, and the development of British capitalism; its claims and later scholarly debates should be examined rather than treated as settled in every detail.
+
+Orlando Patterson — Slavery and Social Death: A Comparative Study (1982). A comparative sociological account of slavery, social status, power, and domination.
+
+David Brion Davis — Inhuman Bondage: The Rise and Fall of Slavery in the New World (2006). A broad historical study of slavery and abolition in the Atlantic world.
+
+Sven Beckert — Empire of Cotton: A Global History (2014). Examines the relationship among cotton, slavery, industrial capitalism, imperial power, and global production.
+
+International Labour Organization — Forced Labour. Contemporary definitions, estimates, and research: https://www.ilo.org/topics/forced-labour-modern-slavery-and-human-trafficking
+
+United Nations — Slavery Convention (1926) and Supplementary Convention on the Abolition of Slavery (1956). Historical legal frameworks for examining slavery and related institutions: https://www.ohchr.org/en/instruments-mechanisms/instruments/slavery-convention
+
+Disability, ableism, and accessibility
+
+Michael Oliver — The Politics of Disablement (1990). A foundational work in the development of the social model of disability and its analysis of disabling social structures.
+
+Rosemarie Garland-Thomson — Extraordinary Bodies: Figuring Physical Disability in American Culture and Literature (1997). Examines how cultural representation and social norms construct meanings around disability and bodily difference.
+
+Alison Kafer — Feminist, Queer, Crip (2013). Connects disability politics with feminist and queer theory, access, time, and imagined futures.
+
+Tom Shakespeare — Disability Rights and Wrongs Revisited (2014). A critical examination of disability studies, rights, social barriers, and the diversity of disabled people's experiences.
+
+United Nations — Convention on the Rights of Persons with Disabilities (2006). An international human-rights framework concerning accessibility, participation, equality, and autonomy: https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities
+
+World Health Organization and World Bank — World Report on Disability (2011). A broad account of disability, participation, barriers, and access to services: https://www.who.int/publications/i/item/9789241564182
 
 Technology and autonomy
 
@@ -1413,14 +1453,17 @@ The new research areas are an initial map, not an exhaustive survey. Some books 
 Next priorities:
 
 1. Read Sen's capability approach alongside Nussbaum's account and examine disagreements between them.
-2. Compare Illich's convivial tools with Bookchin's liberatory technology and contemporary AI infrastructure.
-3. Study post-growth research alongside ecological economics, planetary boundaries, and universal provisioning.
-4. Use Meadows' systems thinking to map feedback loops that reproduce dependency and concentrated power.
-5. Compare polycentric governance, federation, public provisioning, and peer production as different coordination arrangements.
-6. Develop a framework for evaluating human flourishing that protects pluralism and avoids reducing people to productivity metrics.
-7. Compare concrete historical and contemporary cases, including failures and unintended consequences.
-8. Revisit the project's central question without assuming that any one ideology supplies the final answer.
-9. Evaluate concrete capability-expanding technologies by separating their claims, implementation, independent verification, practical accessibility, and effects on autonomy.
+2. Investigate the historical relationships among slavery, colonial extraction, land and property regimes, industrialization, finance, and the accumulation of wealth; include competing interpretations and evidence.
+3. Examine the transitions from chattel slavery and colonial forced labor to abolition, emancipation, and later systems of coercion, while preserving the legal and historical distinctions among slavery, forced labor, trafficking, debt bondage, and other forms of exploitation.
+4. Study disability history and the development of ableism in law, medicine, education, work, housing, public space, and technology; include disability rights movements and disabled people's own accounts.
+5. Compare different models of disability and capability, including the social model, rights-based approaches, and accounts that also attend to impairment, care, and individual variation.
+6. Compare Illich's convivial tools with Bookchin's liberatory technology and contemporary AI infrastructure, asking who can actually access and control them.
+7. Study post-growth research alongside ecological economics, planetary boundaries, and universal provisioning.
+8. Use Meadows' systems thinking to map feedback loops that reproduce dependency, exclusion, and concentrated power.
+9. Compare polycentric governance, federation, public provisioning, and peer production as different coordination arrangements.
+10. Compare concrete historical and contemporary cases, including failures, resistance, unintended consequences, and testimony from affected communities.
+11. Evaluate capability-expanding technologies by separating their claims, implementation, independent verification, practical accessibility, and effects on autonomy.
+12. Revisit the project's central question without assuming that any one ideology supplies the final answer.
 
 The guiding question is now:
 
