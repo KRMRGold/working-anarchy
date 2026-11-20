@@ -1139,7 +1139,7 @@ Digital commons research: https://doi.org/10.3390/digital3030011
 AI commons and political economy: https://doi.org/10.1007/s00146-022-01437-8
 
 16. Current research status
-This is an initial landscape investigation (v0.2.0). The document has moved from surveying sources to stating a position; the position is provisional and the research priorities in §13 are what would test it.
+This remains an initial landscape investigation (current document version v0.6.0). The document has moved from surveying sources to stating a position; the position is provisional and the research priorities in §13 are what would test it.
 
 Established:
 
@@ -1495,3 +1495,4 @@ text
 - **§14 and §15** are merged into a single bibliography plus a shorter open-access list.
 - **§16** no longer duplicates the research priorities; it points to §13 and records the status.
 - **§1** carries the working principle, so a reader knows what the document is committed to before reading the sources.
+- **§3.1, §14, and §15** add Adam Smith as a classical political-economy and moral-philosophy reference, with primary works and open-access research links.
