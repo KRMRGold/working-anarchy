@@ -105,7 +105,7 @@ Historical contradictions.
 
 The relationship between economic structures and political institutions.
 
-Marx did not simply endorse capitalism. He recognized its historical development of productive capabilities while criticizing its social relations and exploitation. His analysis is useful because it investigates capitalism as a historically developing system rather than treating it as a permanent or inevitable arrangement.
+Marx analyzed capitalism as a historically specific mode of production, examining how it transformed productive capacity and social relations while also criticizing its structures of class domination and exploitation. His analysis treats capitalism as a system that emerged under particular historical conditions, develops through internal tensions, and is therefore neither permanent nor inevitable.
 
 What this project takes from Marx: the method of analyzing capitalism as a historically developing system; the distinction between productive forces and relations of production; the insistence that economic structures shape political institutions; and the idea that contradictions between developed capabilities and existing social relations create pressure for change.
 
