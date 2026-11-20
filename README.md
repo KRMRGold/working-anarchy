@@ -1,9 +1,9 @@
 ---
 title: A Materialist Theory of Anarchism
 subtitle: Research into human flourishing, civilizational futures, decentralized freedom, and technological change
-version: 0.5.0
+version: 0.6.0
 status: Working Research Document
-date: 2026-11-18
+date: 2026-11-20
 research_status: Initial landscape investigation
 ---
 A Materialist Theory of Anarchism
@@ -56,7 +56,35 @@ The possibility worth investigating is whether these developments create conditi
 The objective would not simply be to abolish existing institutions, but to understand what social arrangements could replace their useful functions without reproducing unnecessary domination.
 
 3. Intellectual foundations
-3.1 Marx, Hegel, and historical materialism
+3.1 Adam Smith, Marx, Hegel, and historical materialism
+
+Adam Smith (1723–1790)
+
+Smith is relevant as a major figure in the development of classical political economy and as a moral philosopher whose work examines the relationship between individual judgment, social cooperation, commercial exchange, and public institutions. He should not be reduced to a slogan about self-interest or treated as a straightforward advocate of every institution later associated with capitalism. Smith wrote before the modern term "capitalism" became established; his central subject was commercial society.
+
+Important concepts:
+
+- Sympathy and the impartial spectator as elements of moral judgment.
+- The division of labour and its effects on productivity, skill, and social organization.
+- Exchange, markets, prices, wages, profits, rent, and the distribution of the social product.
+- Commercial society, natural liberty, and the role of institutions in coordinating economic activity.
+- The danger of monopolies, collusion, and merchants using political influence to advance their own interests.
+- Public works, public institutions, and education as matters that cannot always be left to private profitability.
+
+Important works:
+
+- The Theory of Moral Sentiments (1759).
+- An Inquiry into the Nature and Causes of the Wealth of Nations (1776).
+- Lectures on Jurisprudence (student notes from Smith's lectures, published posthumously).
+
+Why Smith matters to this project: Smith offers an influential account of how productive capacity and social coordination develop through specialization and exchange. His work also makes clear that political economy cannot be separated cleanly from moral philosophy: questions of prosperity, justice, public institutions, and the treatment of ordinary people belong in the same investigation. This makes him useful for examining the historical arguments for commercial society before comparing markets with commons, mutualism, cooperatives, and peer production.
+
+Smith is also important because his account contains tensions relevant to the project's questions. The division of labour can greatly increase output, but Smith warns that repetitive, narrowly specialized work can diminish workers' intellectual and social capacities unless education and public provision counteract those effects. He criticizes systems of privilege and the ability of organized commercial interests to shape public policy, while still defending markets and a limited role for government. His work therefore offers neither a simple endorsement nor a simple rejection of market society.
+
+What this project takes from Smith: the need to understand how specialization, exchange, institutions, and unintended consequences shape productive capacity; the connection between economic arrangements and moral/social life; and the importance of examining how commercial interests can influence political rules.
+
+What this project leaves open: whether market coordination can be combined with more democratic or decentralized ownership; how far Smith's account of natural liberty can address structural inequalities and concentrated private power; and which of his historical observations remain applicable under modern industrial, digital, and AI-mediated production. Smith should not be retroactively classified as an anarchist or assumed to have anticipated contemporary alternatives.
+
 Karl Marx (1818–1883)
 
 Important concepts:
@@ -994,6 +1022,15 @@ The task is to understand the relationships, disagreements, limitations, and pos
 14. Research bibliography and source map
 The following sources establish the initial research foundation. This is a curated starting bibliography, not an exhaustive inventory of everything written on the subject. Where an open-access version exists, it is noted in §15.
 
+Classical political economy and Adam Smith
+Adam Smith — The Theory of Moral Sentiments (1759).
+
+Adam Smith — An Inquiry into the Nature and Causes of the Wealth of Nations (1776).
+
+Stanford Encyclopedia of Philosophy — Adam Smith's Moral and Political Philosophy: https://plato.stanford.edu/entries/smith-moral-political/
+
+Internet Encyclopedia of Philosophy — Adam Smith: https://iep.utm.edu/smith/
+
 Historical materialism and Marx
 Karl Marx — The German Ideology (1845–1846).
 
@@ -1076,6 +1113,10 @@ Economies of Open Intelligence (2025).
 
 15. Open-access starting points
 These are the sources in §14 that can be read in full without institutional access. The rest will need a library, a purchase, or an interlibrary loan.
+
+Adam Smith and classical political economy: https://plato.stanford.edu/entries/smith-moral-political/
+
+The Wealth of Nations (readable full text): https://www.earlymoderntexts.com/assets/pdfs/smith1776.pdf
 
 Marx and historical materialism: https://plato.stanford.edu/entries/marx/
 
