@@ -11,13 +11,13 @@ Working notes toward a materialist account of decentralized freedom, technologic
 
 >AI-assisted research and editorial note
 >
->This repository is a human-directed research collection developed and iteratively curated with AI assistance. AI tools have been used to discover research leads, summarize >and compare material, organize themes, and draft and revise sections. The documents should not be mistaken for independently verified academic scholarship or assumed to be >wholly human-authored prose.
+>This repository is a human-directed research collection developed and iteratively curated with AI assistance. AI tools have been used to discover research leads, summarize and compare material, organize themes, and draft and revise sections. The documents should not be mistaken for independently verified academic scholarship or assumed to be wholly human-authored prose.
 >
->AI-assisted summaries and references can contain errors, omissions, or oversimplifications. Treat claims, interpretations, quotations, and bibliographic details as >research leads: check them against primary texts, original documentation, and reliable scholarship before relying on them. Distinctions between sourced findings, the >interpretations of cited authors, and this project's provisional synthesis should be maintained.
+>AI-assisted summaries and references can contain errors, omissions, or oversimplifications. Treat claims, interpretations, quotations, and bibliographic details as research leads: check them against primary texts, original documentation, and reliable scholarship before relying on them. Distinctions between sourced findings, the interpretations of cited authors, and this project's provisional synthesis should be maintained.
 >
 >The purpose is to make collected research easier for other people to explore, question, extend, or summarize with their own AI tools if they wish. It is a starting point for independent inquiry, not a prescribed conclusion or a request to adopt one ideology. Readers are encouraged to follow the questions and directions they find useful.
 
-1. Purpose
+1. Purpose  
 This document investigates the possibility of developing a contemporary materialist theory of anarchism.
 
 The starting inspiration is Karl Marx: his analysis of capitalism, historical development, productive forces, class relations, and the contradictions between technological capabilities and existing economic structures.
