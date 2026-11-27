@@ -32,7 +32,7 @@ The project must distinguish formal freedom from freedom that is materially and 
 
 This is not an attempt to establish a finished ideology. It is an evolving investigation into existing scholarship, historical experience, contemporary technology, and possible forms of social organization. The project should preserve disagreements, competing theories, and unresolved questions rather than prematurely forcing everything into one ideological framework.
 
-The originating problem
+## The originating problem
 
 The project began with a practical concern about creative work: people may want to release, share, or show what they make, but hold back because they fear that others could copy it, reproduce it, redistribute it, or profit from it without their permission. That fear is often connected to material survival. When a creator depends on sales, commissions, licensing, or the exclusivity of a work to pay for necessities, making the work freely available can put their livelihood at risk.
 
