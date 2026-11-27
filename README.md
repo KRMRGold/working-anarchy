@@ -6,7 +6,7 @@ status: Working Research Document
 date: 2026-11-20
 research_status: Initial landscape investigation
 ---
-A Materialist Theory of Anarchism
+# A Materialist Theory of Anarchism
 Working notes toward a materialist account of decentralized freedom, technological abundance, and human flourishing
 
 >AI-assisted research and editorial note
@@ -24,7 +24,7 @@ The starting inspiration is Karl Marx: his analysis of capitalism, historical de
 
 The objective is to investigate whether a comparable analytical framework could be developed around anarchist principles, particularly in light of contemporary technological developments.
 
-The central question:
+# The central question:
 
 What happens when humanity develops the productive capabilities to provide greater freedom and material security, but its economic and political institutions continue to restrict access to those capabilities?
 
